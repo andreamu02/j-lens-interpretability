@@ -1,0 +1,2533 @@
+term,status
+3DES,no_single_token_variant
+ABI mismatch,no_single_token_variant
+absolute path traversal,no_single_token_variant
+absolute session timeout,no_single_token_variant
+absolute value overflow,no_single_token_variant
+abuse,available
+abused,available
+abuses,available
+abusing,available
+abusive,available
+accept,available
+acceptance,available
+accepted,available
+accepting,available
+accepts,available
+access control,no_single_token_variant
+access control entry,no_single_token_variant
+access control list,no_single_token_variant
+access control matrix,no_single_token_variant
+access control policy,no_single_token_variant
+access control rule,no_single_token_variant
+access control validation,no_single_token_variant
+access key,no_single_token_variant
+access revocation,no_single_token_variant
+access token,no_single_token_variant
+account enumeration,no_single_token_variant
+account lockout,no_single_token_variant
+account takeover,no_single_token_variant
+ACL,available
+ACL bypass,no_single_token_variant
+acquire-release ordering,no_single_token_variant
+addition overflow,no_single_token_variant
+address space randomization,no_single_token_variant
+address validation,no_single_token_variant
+adversarial,no_single_token_variant
+adversaries,available
+adversary,available
+AEAD,no_single_token_variant
+AES,available
+AES-CBC,no_single_token_variant
+AES-CTR,no_single_token_variant
+AES-GCM,no_single_token_variant
+algorithmic complexity attack,no_single_token_variant
+allocation,available
+allocation amplification,no_single_token_variant
+allocation failure,no_single_token_variant
+allocation failure check,no_single_token_variant
+allocation limit,no_single_token_variant
+allocation size wraparound,no_single_token_variant
+allocator mismatch,no_single_token_variant
+allocator pairing,no_single_token_variant
+allow,available
+allowed,available
+allowed redirect,no_single_token_variant
+allowing,available
+allowlist,no_single_token_variant
+allowlisted,no_single_token_variant
+allowlisting,no_single_token_variant
+allowlists,no_single_token_variant
+allows,available
+alternate data stream abuse,no_single_token_variant
+ambiguous input,no_single_token_variant
+ambiguous Transfer-Encoding,no_single_token_variant
+anti-CSRF token,no_single_token_variant
+antivirus,available
+API key,no_single_token_variant
+arbitrary code execution,no_single_token_variant
+arbitrary file deletion,no_single_token_variant
+arbitrary file read,no_single_token_variant
+arbitrary file write,no_single_token_variant
+archive,available
+archive path traversal,no_single_token_variant
+Argon2,no_single_token_variant
+Argon2id,no_single_token_variant
+argument,available
+argument injection,no_single_token_variant
+argument separation,no_single_token_variant
+argument validation,no_single_token_variant
+arithmetic,available
+arithmetic overflow,no_single_token_variant
+arithmetic underflow,no_single_token_variant
+array boundary,no_single_token_variant
+array bounds validation,no_single_token_variant
+artifact digest,no_single_token_variant
+artifact signature verification,no_single_token_variant
+artifact substitution,no_single_token_variant
+ASCII,available
+ASLR,no_single_token_variant
+AST,available
+AST node,no_single_token_variant
+AST node allowlist,no_single_token_variant
+AST validation,no_single_token_variant
+async signal unsafe operation,no_single_token_variant
+atomic check-and-act,no_single_token_variant
+atomic file creation,no_single_token_variant
+atomic file replacement,no_single_token_variant
+atomicity violation,no_single_token_variant
+attack,available
+attack surface,no_single_token_variant
+attackable,no_single_token_variant
+attacked,available
+attacker,available
+attackers,available
+attacking,available
+attacks,available
+attribute injection,no_single_token_variant
+attribute-based access control,no_single_token_variant
+audience validation,no_single_token_variant
+audit log,no_single_token_variant
+authenticate,available
+authenticated,available
+authenticated decryption,no_single_token_variant
+authenticated encryption,no_single_token_variant
+authenticates,no_single_token_variant
+authenticating,no_single_token_variant
+authentication,available
+authentication bypass,no_single_token_variant
+authentication challenge,no_single_token_variant
+authentication check,no_single_token_variant
+authentication confusion,no_single_token_variant
+authentication context,no_single_token_variant
+authentication downgrade,no_single_token_variant
+authentication factor,no_single_token_variant
+authentication factor binding,no_single_token_variant
+authentication oracle,no_single_token_variant
+authentication protocol,no_single_token_variant
+authentication replay,no_single_token_variant
+authentication response,no_single_token_variant
+authentication state,no_single_token_variant
+authentication tag,no_single_token_variant
+authentication tag verification,no_single_token_variant
+authentication timeout,no_single_token_variant
+authentication token,no_single_token_variant
+authenticator,no_single_token_variant
+authenticator binding,no_single_token_variant
+authorisation,no_single_token_variant
+authorise,no_single_token_variant
+authorised,available
+authorises,no_single_token_variant
+authorising,no_single_token_variant
+authorization,available
+authorization bypass,no_single_token_variant
+authorization cache poisoning,no_single_token_variant
+authorization check,no_single_token_variant
+authorization code,no_single_token_variant
+authorization code binding,no_single_token_variant
+authorization code injection,no_single_token_variant
+authorization code interception,no_single_token_variant
+authorization context binding,no_single_token_variant
+authorization endpoint,no_single_token_variant
+authorization on every request,no_single_token_variant
+authorization race,no_single_token_variant
+authorize,available
+authorized,available
+authorizes,no_single_token_variant
+authorizing,no_single_token_variant
+automatic cleanup,no_single_token_variant
+automatic escaping,no_single_token_variant
+availability,available
+avert,no_single_token_variant
+averted,no_single_token_variant
+averting,no_single_token_variant
+averts,no_single_token_variant
+avoid,available
+avoid dynamic evaluation,no_single_token_variant
+avoidance,available
+avoided,available
+avoiding,available
+avoids,available
+backdoor,no_single_token_variant
+backup code,no_single_token_variant
+bad,available
+basic constraints,no_single_token_variant
+batch command injection,no_single_token_variant
+bcrypt,available
+bearer token,no_single_token_variant
+benign,available
+BFLA,no_single_token_variant
+biased random number,no_single_token_variant
+bind parameter,no_single_token_variant
+bind variable,no_single_token_variant
+biometric authentication,no_single_token_variant
+BLAKE2,no_single_token_variant
+BLAKE3,no_single_token_variant
+blank password,no_single_token_variant
+blind SQL injection,no_single_token_variant
+blind SSRF,no_single_token_variant
+blind XSS,no_single_token_variant
+blind XXE,no_single_token_variant
+block,available
+block cipher,no_single_token_variant
+block cipher mode,no_single_token_variant
+block link-local addresses,no_single_token_variant
+block loopback addresses,no_single_token_variant
+block private IP ranges,no_single_token_variant
+blocked,available
+blocking,available
+blocklist,no_single_token_variant
+blocklisted,no_single_token_variant
+blocklisting,no_single_token_variant
+blocklists,no_single_token_variant
+blocks,available
+BOLA,available
+boolean-based SQL injection,no_single_token_variant
+borrow checking,no_single_token_variant
+bound parameters,no_single_token_variant
+bound query parameter,no_single_token_variant
+bounded,available
+bounded backtracking,no_single_token_variant
+bounded copy,no_single_token_variant
+bounded formatting,no_single_token_variant
+bounded iteration,no_single_token_variant
+bounded loop,no_single_token_variant
+bounded recursion,no_single_token_variant
+bounded retry,no_single_token_variant
+bounded string copy,no_single_token_variant
+bounded string formatting,no_single_token_variant
+bounded traversal,no_single_token_variant
+bounds,available
+bounds check,no_single_token_variant
+bounds checking,no_single_token_variant
+bounds violation,no_single_token_variant
+breach,available
+breached,available
+breached password screening,no_single_token_variant
+breaches,available
+breaching,no_single_token_variant
+break,available
+breakdown,available
+breaking,available
+broken,available
+broken access control,no_single_token_variant
+broken cryptography,no_single_token_variant
+broken function level authorization,no_single_token_variant
+broken object level authorization,no_single_token_variant
+browser origin,no_single_token_variant
+brute force authentication,no_single_token_variant
+budget check,no_single_token_variant
+buffer,available
+buffer boundary,no_single_token_variant
+buffer capacity validation,no_single_token_variant
+buffer length validation,no_single_token_variant
+buffer overflow,no_single_token_variant
+buffer overread,no_single_token_variant
+buffer overrun,no_single_token_variant
+buffer overwrite,no_single_token_variant
+buffer size,no_single_token_variant
+buffer size tracking,no_single_token_variant
+buffer underread,no_single_token_variant
+buffer underwrite,no_single_token_variant
+buffers,available
+bug,available
+buggy,available
+bugs,available
+busy loop,no_single_token_variant
+busy wait,no_single_token_variant
+bypass,available
+bypassed,no_single_token_variant
+bypasses,no_single_token_variant
+bypassing,no_single_token_variant
+bytecode injection,no_single_token_variant
+cache isolation,no_single_token_variant
+cache key confusion,no_single_token_variant
+cache key validation,no_single_token_variant
+cache poisoning,no_single_token_variant
+cache side channel,no_single_token_variant
+cache size limit,no_single_token_variant
+cache-control,no_single_token_variant
+canonical path check,no_single_token_variant
+canonical path containment,no_single_token_variant
+canonicalisation,no_single_token_variant
+canonicalization,no_single_token_variant
+canonicalization mismatch,no_single_token_variant
+canonicalize before validation,no_single_token_variant
+capability,available
+capability dropping,no_single_token_variant
+capability restriction,no_single_token_variant
+capability-based access control,no_single_token_variant
+capacity check,no_single_token_variant
+case-insensitive path bypass,no_single_token_variant
+catastrophe,available
+catastrophes,no_single_token_variant
+catastrophic,available
+catastrophic backtracking,no_single_token_variant
+catastrophically,no_single_token_variant
+caution,available
+cautious,available
+cautiously,available
+CBC,available
+CCM,no_single_token_variant
+certificate,available
+certificate authority,no_single_token_variant
+certificate chain,no_single_token_variant
+certificate chain bypass,no_single_token_variant
+certificate chain verification,no_single_token_variant
+certificate constraint validation,no_single_token_variant
+certificate expiry,no_single_token_variant
+certificate expiry validation,no_single_token_variant
+certificate name confusion,no_single_token_variant
+certificate pinning,no_single_token_variant
+certificate revocation bypass,no_single_token_variant
+certificate revocation checking,no_single_token_variant
+certificate revocation list,no_single_token_variant
+certificate transparency,no_single_token_variant
+certificate usage validation,no_single_token_variant
+certificate validation,no_single_token_variant
+certificate validation bypass,no_single_token_variant
+certificate verification,no_single_token_variant
+certificates,available
+CFI,no_single_token_variant
+ChaCha20,no_single_token_variant
+ChaCha20-Poly1305,no_single_token_variant
+chain validation,no_single_token_variant
+challenge-response authentication,no_single_token_variant
+character allowlist,no_single_token_variant
+check,available
+check-then-act race,no_single_token_variant
+check-use race,no_single_token_variant
+checked,available
+checked addition,no_single_token_variant
+checked arithmetic,no_single_token_variant
+checked cast,no_single_token_variant
+checked dereference,no_single_token_variant
+checked division,no_single_token_variant
+checked index arithmetic,no_single_token_variant
+checked integer conversion,no_single_token_variant
+checked multiplication,no_single_token_variant
+checked negation,no_single_token_variant
+checked pointer arithmetic,no_single_token_variant
+checked remainder,no_single_token_variant
+checked shift,no_single_token_variant
+checked subtraction,no_single_token_variant
+checking,available
+checks,available
+checksum,available
+chosen ciphertext attack,no_single_token_variant
+chosen plaintext attack,no_single_token_variant
+chroot,no_single_token_variant
+chroot escape,no_single_token_variant
+cipher,available
+circuit breaker,no_single_token_variant
+CL.TE smuggling,no_single_token_variant
+claim validation,no_single_token_variant
+cleanup,available
+client credential,no_single_token_variant
+client secret,no_single_token_variant
+client-side authorization,no_single_token_variant
+client-side template injection,no_single_token_variant
+close-on-exec,no_single_token_variant
+cloud metadata access,no_single_token_variant
+code challenge,no_single_token_variant
+code execution,no_single_token_variant
+code injection,no_single_token_variant
+code origin verification,no_single_token_variant
+code signing,no_single_token_variant
+code verifier,no_single_token_variant
+collision,available
+collision attack,no_single_token_variant
+collision resistance,no_single_token_variant
+collision resistant,no_single_token_variant
+-command,available
+command,available
+CommandLine,available
+command allowlist,no_single_token_variant
+command argument binding,no_single_token_variant
+command delimiter injection,no_single_token_variant
+command injection,no_single_token_variant
+command substitution injection,no_single_token_variant
+commands,available
+common name,no_single_token_variant
+comparable,available
+compare,available
+compare-and-swap,no_single_token_variant
+compared,available
+compares,available
+comparing,available
+comparison,available
+comparisons,available
+complete mediation,no_single_token_variant
+complete object initialization,no_single_token_variant
+compression side channel,no_single_token_variant
+compromise,available
+compromised,available
+compromised dependency,no_single_token_variant
+compromises,available
+compromising,available
+condition predicate loop,no_single_token_variant
+conditional initialization,no_single_token_variant
+confidential,available
+confidentiality,available
+confinement,available
+confused deputy,no_single_token_variant
+connection exhaustion,no_single_token_variant
+connection limit,no_single_token_variant
+consent phishing,no_single_token_variant
+consistent lock order,no_single_token_variant
+consistent message framing,no_single_token_variant
+constant format string,no_single_token_variant
+constant time,no_single_token_variant
+constant-time comparison,no_single_token_variant
+constant-time cryptography,no_single_token_variant
+constant-time password comparison,no_single_token_variant
+constant-time response,no_single_token_variant
+container boundary,no_single_token_variant
+container escape,no_single_token_variant
+container isolation,no_single_token_variant
+containment,available
+containment check,no_single_token_variant
+content security policy,no_single_token_variant
+content signature,no_single_token_variant
+content signature validation,no_single_token_variant
+content sniffing,no_single_token_variant
+content type validation,no_single_token_variant
+Content-Length,no_single_token_variant
+context-sensitive output encoding,no_single_token_variant
+contextual escaping,no_single_token_variant
+control-flow hijacking,no_single_token_variant
+control-flow integrity,no_single_token_variant
+cookie,available
+cookie domain,no_single_token_variant
+Cookie header,no_single_token_variant
+cookie injection,no_single_token_variant
+cookie path,no_single_token_variant
+cookie poisoning,no_single_token_variant
+cookie prefix,no_single_token_variant
+cookie prefix enforcement,no_single_token_variant
+cookie scope restriction,no_single_token_variant
+cookie shadowing,no_single_token_variant
+cookie tossing,no_single_token_variant
+copy length validation,no_single_token_variant
+correct,available
+corrected,available
+correction,available
+corrections,available
+corrective,available
+correctly,available
+correctness,available
+corrupt,available
+corrupted,available
+corrupting,no_single_token_variant
+corruption,available
+corruptions,no_single_token_variant
+corrupts,no_single_token_variant
+CORS,available
+CORS origin reflection,no_single_token_variant
+cost limit,no_single_token_variant
+counterfeit,available
+CPU exhaustion,no_single_token_variant
+crash,available
+crashed,available
+crashes,available
+crashing,available
+credential,available
+credential exposure,no_single_token_variant
+credential in command line,no_single_token_variant
+credential in URL,no_single_token_variant
+credential lifetime,no_single_token_variant
+credential provider,no_single_token_variant
+credential redaction,no_single_token_variant
+credential reuse,no_single_token_variant
+credential rotation,no_single_token_variant
+credential store,no_single_token_variant
+credential stuffing,no_single_token_variant
+credential theft,no_single_token_variant
+credential verification,no_single_token_variant
+credentialed request,no_single_token_variant
+credentials,available
+critical,available
+critical section,no_single_token_variant
+critically,available
+CRL,no_single_token_variant
+CRLF injection,no_single_token_variant
+CRLF rejection,no_single_token_variant
+CRLF splitting,no_single_token_variant
+cross site scripting,no_single_token_variant
+cross-field validation,no_single_token_variant
+cross-origin data leakage,no_single_token_variant
+cross-origin information leak,no_single_token_variant
+cross-origin request,no_single_token_variant
+cross-session contamination,no_single_token_variant
+cross-site request forgery,no_single_token_variant
+cross-site scripting,no_single_token_variant
+cross-site WebSocket hijacking,no_single_token_variant
+cross-tenant access,no_single_token_variant
+cross-tenant leakage,no_single_token_variant
+cryptanalysis,no_single_token_variant
+crypto,available
+cryptographic,available
+cryptographic downgrade,no_single_token_variant
+cryptographic key rotation,no_single_token_variant
+cryptographic weakness,no_single_token_variant
+cryptographically secure randomness,no_single_token_variant
+cryptography,available
+cryptoperiod,no_single_token_variant
+CSP,available
+CSP hash,no_single_token_variant
+CSP nonce,no_single_token_variant
+CSPRNG,no_single_token_variant
+CSRF,available
+CSRF token,no_single_token_variant
+CSRF token bypass,no_single_token_variant
+CSS context,no_single_token_variant
+CSS injection,no_single_token_variant
+CSV injection,no_single_token_variant
+CTR,available
+cve,available
+cwe,available
+cybersecurity,available
+cycle detection,no_single_token_variant
+DACL,no_single_token_variant
+damage,available
+damaged,available
+damages,available
+damaging,available
+danger,available
+dangerous,available
+dangerously,available
+dangers,available
+dangling,available
+dangling iterator,no_single_token_variant
+dangling pointer,no_single_token_variant
+dangling reference,no_single_token_variant
+data classification,no_single_token_variant
+data exposure,no_single_token_variant
+data minimization,no_single_token_variant
+data race,no_single_token_variant
+data retention,no_single_token_variant
+data URL,no_single_token_variant
+data-only format,no_single_token_variant
+data-only serialization,no_single_token_variant
+database,available
+database least privilege,no_single_token_variant
+database password,no_single_token_variant
+deadlock,available
+deadlock avoidance,no_single_token_variant
+deallocation,no_single_token_variant
+deallocation on error,no_single_token_variant
+debug information disclosure,no_single_token_variant
+decompressed size limit,no_single_token_variant
+decompression bomb,no_single_token_variant
+decompression ratio limit,no_single_token_variant
+decrypt,available
+decrypted,available
+decryption,available
+decryption oracle,no_single_token_variant
+default credential,no_single_token_variant
+default deny,no_single_token_variant
+default password,no_single_token_variant
+defect,available
+defective,available
+defectively,no_single_token_variant
+defects,available
+defence,available
+defences,no_single_token_variant
+defend,available
+defended,available
+defending,available
+defends,available
+defense,available
+defense in depth,no_single_token_variant
+defenses,available
+defensive,available
+defensively,available
+deferred cleanup,no_single_token_variant
+deficiencies,available
+deficiency,available
+deficient,available
+definite assignment,no_single_token_variant
+delimiter escaping,no_single_token_variant
+delimiter injection,no_single_token_variant
+denial,available
+denial of service,no_single_token_variant
+denied,available
+denies,available
+denominator,available
+denominator check,no_single_token_variant
+denominator range,no_single_token_variant
+deny,available
+deny by default,no_single_token_variant
+denying,available
+denylist,no_single_token_variant
+denylisted,no_single_token_variant
+denylisting,no_single_token_variant
+denylists,no_single_token_variant
+DEP,available
+dependency allowlist,no_single_token_variant
+dependency confusion,no_single_token_variant
+dependency hash verification,no_single_token_variant
+dependency hijacking,no_single_token_variant
+dependency injection abuse,no_single_token_variant
+dependency pinning,no_single_token_variant
+dependency substitution,no_single_token_variant
+deprecated,available
+DES,available
+descriptor exhaustion,no_single_token_variant
+descriptor limit,no_single_token_variant
+deserialisation,no_single_token_variant
+deserialization,no_single_token_variant
+deserialization allowlist,no_single_token_variant
+deserialization attack,no_single_token_variant
+deserialization callback execution,no_single_token_variant
+deserialization denial of service,no_single_token_variant
+deserialization depth limit,no_single_token_variant
+deserialization gadget,no_single_token_variant
+deserialization hook,no_single_token_variant
+deserialization schema validation,no_single_token_variant
+deserialization size limit,no_single_token_variant
+deserialize,available
+deserializer,available
+destination,available
+destination allowlist,no_single_token_variant
+destination length validation,no_single_token_variant
+destination validation,no_single_token_variant
+destructive,available
+desynchronization,no_single_token_variant
+detect,available
+detected,available
+detecting,available
+detection,available
+detections,available
+detector,available
+detectors,available
+detects,available
+deterministic destruction,no_single_token_variant
+diabled,no_single_token_variant
+Diffie-Hellman,no_single_token_variant
+digest,available
+digital signature,no_single_token_variant
+digital signature chain,no_single_token_variant
+directory,available
+directory confinement,no_single_token_variant
+directory descriptor binding,no_single_token_variant
+directory escape,no_single_token_variant
+directory listing exposure,no_single_token_variant
+directory permission check,no_single_token_variant
+directory traversal,no_single_token_variant
+dirty read,no_single_token_variant
+disable,available
+disable debug output,no_single_token_variant
+disable directory listing,no_single_token_variant
+disable DTD processing,no_single_token_variant
+disable external DTD loading,no_single_token_variant
+disable external entities,no_single_token_variant
+disable redirects,no_single_token_variant
+disable XInclude,no_single_token_variant
+disabled,available
+disabled certificate verification,no_single_token_variant
+disabled external entities,no_single_token_variant
+disabled protection,no_single_token_variant
+disabled security checks,no_single_token_variant
+disabled validation,no_single_token_variant
+disables,available
+disables improperly,no_single_token_variant
+disabling,available
+disclosed,available
+disclosing,available
+disclosure,available
+disclosures,available
+discovery document,no_single_token_variant
+discretionary access control,no_single_token_variant
+disk exhaustion,no_single_token_variant
+disk quota,no_single_token_variant
+disregard,available
+disregarded,no_single_token_variant
+disregarding,no_single_token_variant
+disregards,no_single_token_variant
+divide by zero,no_single_token_variant
+division,available
+division by zero,no_single_token_variant
+division overflow,no_single_token_variant
+division overflow check,no_single_token_variant
+division precondition,no_single_token_variant
+division precondition check,no_single_token_variant
+divisor,available
+divisor range,no_single_token_variant
+divisor validation,no_single_token_variant
+DLL hijacking,no_single_token_variant
+DNS,available
+DNS pinning bypass,no_single_token_variant
+DNS rebinding,no_single_token_variant
+DNS rebinding protection,no_single_token_variant
+document database,no_single_token_variant
+document.write,no_single_token_variant
+DOM,available
+DOM clobbering,no_single_token_variant
+DOM parser,no_single_token_variant
+DOM sanitization,no_single_token_variant
+DOM sink,no_single_token_variant
+DOM source,no_single_token_variant
+DOM XSS,no_single_token_variant
+DOM-based XSS,no_single_token_variant
+domain separation,no_single_token_variant
+DoS,available
+double decoding,no_single_token_variant
+double encoding,no_single_token_variant
+double extension bypass,no_single_token_variant
+double free,no_single_token_variant
+double unlock,no_single_token_variant
+double-checked locking race,no_single_token_variant
+double-encoded path traversal,no_single_token_variant
+double-free,no_single_token_variant
+double-submit cookie,no_single_token_variant
+downgrade attack,no_single_token_variant
+drive letter bypass,no_single_token_variant
+DTD,available
+DTD restriction,no_single_token_variant
+duplicate Content-Length,no_single_token_variant
+duplicate free,no_single_token_variant
+duplicate key ambiguity,no_single_token_variant
+duplicate parameter rejection,no_single_token_variant
+dynamic code injection,no_single_token_variant
+dynamic import allowlist,no_single_token_variant
+dynamic import injection,no_single_token_variant
+dynamic SQL,no_single_token_variant
+dynamic SQL injection,no_single_token_variant
+dysfunction,available
+dysfunctional,available
+ECB,available
+ECB pattern leakage,no_single_token_variant
+ECDH,no_single_token_variant
+ECDSA,no_single_token_variant
+Ed25519,no_single_token_variant
+EdDSA,no_single_token_variant
+effective permissions,no_single_token_variant
+egregious,available
+egress filtering,no_single_token_variant
+egress restriction,no_single_token_variant
+EL injection,no_single_token_variant
+elliptic curve point validation,no_single_token_variant
+email injection,no_single_token_variant
+embedded null byte,no_single_token_variant
+embedded password,no_single_token_variant
+embedded secret,no_single_token_variant
+empty password,no_single_token_variant
+enable,available
+enabled,available
+enabled protection,no_single_token_variant
+enabled security checks,no_single_token_variant
+enables,available
+enabling,available
+encoded path traversal,no_single_token_variant
+encoding confusion,no_single_token_variant
+encoding validation,no_single_token_variant
+encrypt,available
+encrypt-then-MAC,no_single_token_variant
+encrypted,available
+encrypted storage,no_single_token_variant
+encrypted transport,no_single_token_variant
+encryption,available
+encryption oracle,no_single_token_variant
+endanger,available
+endangered,available
+endangering,no_single_token_variant
+endangers,no_single_token_variant
+endless loop,no_single_token_variant
+endlessy,no_single_token_variant
+indefinite,available
+indefinitely,available
+enforce,available
+enforced,available
+enforcement,available
+enforces,no_single_token_variant
+enforcing,available
+ensure,available
+ensured,available
+ensures,available
+ensuring,available
+entity,available
+entity expansion attack,no_single_token_variant
+entity expansion limit,no_single_token_variant
+entropy,available
+environment inheritance,no_single_token_variant
+environment sanitization,no_single_token_variant
+environment secret,no_single_token_variant
+environment variable injection,no_single_token_variant
+ephemeral credentials,no_single_token_variant
+erroneous,available
+erroneously,no_single_token_variant
+error,available
+error message disclosure,no_single_token_variant
+error redaction,no_single_token_variant
+error-based SQL injection,no_single_token_variant
+error-prone,no_single_token_variant
+errors,available
+escape,available
+escaped,available
+escapes,available
+escaping,available
+evade,available
+evaded,no_single_token_variant
+evades,no_single_token_variant
+evading,no_single_token_variant
+eval,available
+eval injection,no_single_token_variant
+evaluation,available
+evasion,available
+event handler injection,no_single_token_variant
+exact redirect URI matching,no_single_token_variant
+exception-safe cleanup,no_single_token_variant
+excessive allocation,no_single_token_variant
+excessive data exposure,no_single_token_variant
+excessive privilege,no_single_token_variant
+exclusive file creation,no_single_token_variant
+executable allowlist,no_single_token_variant
+executable file upload,no_single_token_variant
+executable path hijacking,no_single_token_variant
+execution budget,no_single_token_variant
+exhausted,available
+exhaustion,available
+expiration validation,no_single_token_variant
+expired certificate acceptance,no_single_token_variant
+expired token acceptance,no_single_token_variant
+explicit initialization,no_single_token_variant
+exploit,available
+exploitability,no_single_token_variant
+exploitable,no_single_token_variant
+exploitation,available
+exploited,available
+exploiting,available
+exploits,available
+exponential backoff,no_single_token_variant
+exponential backtracking,no_single_token_variant
+expose,available
+exposed,available
+exposed access key,no_single_token_variant
+exposed management socket,no_single_token_variant
+exposes,available
+exposing,available
+exposure,available
+exposures,available
+expression allowlist,no_single_token_variant
+expression complexity limit,no_single_token_variant
+expression language injection,no_single_token_variant
+expression sandboxing,no_single_token_variant
+extended key usage,no_single_token_variant
+external DTD loading,no_single_token_variant
+external entity,no_single_token_variant
+external entity expansion,no_single_token_variant
+external entity injection,no_single_token_variant
+external entity restriction,no_single_token_variant
+external schema retrieval,no_single_token_variant
+external secret storage,no_single_token_variant
+externalized secret,no_single_token_variant
+fail,available
+fail closed,no_single_token_variant
+fail-open authorization,no_single_token_variant
+failed,available
+failing,available
+fails,available
+failure,available
+failures,available
+fake,available
+faked,no_single_token_variant
+fakes,no_single_token_variant
+faking,no_single_token_variant
+falsification,no_single_token_variant
+falsified,no_single_token_variant
+falsifies,no_single_token_variant
+falsify,no_single_token_variant
+fast password hash,no_single_token_variant
+fatal,available
+fatally,available
+fault,available
+faults,available
+faulty,available
+FFI type mismatch,no_single_token_variant
+FIDO2,no_single_token_variant
+field allowlist,no_single_token_variant
+file descriptor cleanup,no_single_token_variant
+file descriptor leak,no_single_token_variant
+file mode validation,no_single_token_variant
+file ownership validation,no_single_token_variant
+file permission,no_single_token_variant
+file scheme access,no_single_token_variant
+file system race,no_single_token_variant
+file type confusion,no_single_token_variant
+filename collision,no_single_token_variant
+finally cleanup,no_single_token_variant
+firewall,available
+fix,available
+fixed,available
+fixed executable path,no_single_token_variant
+fixed format string,no_single_token_variant
+fixed IV,no_single_token_variant
+fixed redirect destination,no_single_token_variant
+fixes,available
+fixing,available
+flaw,available
+flawed,available
+flawless,available
+flaws,available
+floating-point division by zero,no_single_token_variant
+forge,available
+forged,available
+forgery,available
+forges,no_single_token_variant
+forging,available
+format,available
+format argument mismatch,no_single_token_variant
+format argument validation,no_single_token_variant
+format injection,no_single_token_variant
+format precision abuse,no_single_token_variant
+format precision limit,no_single_token_variant
+format specifier injection,no_single_token_variant
+format string arbitrary write,no_single_token_variant
+format string injection,no_single_token_variant
+format string memory disclosure,no_single_token_variant
+format string validation,no_single_token_variant
+format string vulnerability,no_single_token_variant
+format type checking,no_single_token_variant
+format width abuse,no_single_token_variant
+format width limit,no_single_token_variant
+formatting,available
+formula neutralization,no_single_token_variant
+forward secrecy,no_single_token_variant
+Forwarded header,no_single_token_variant
+forwarded header validation,no_single_token_variant
+fraud,available
+fraudulent,available
+free,available
+free of interior pointer,no_single_token_variant
+free of stack memory,no_single_token_variant
+freed memory,no_single_token_variant
+fuel counter,no_single_token_variant
+function-level authorization,no_single_token_variant
+gadget chain,no_single_token_variant
+GCM,no_single_token_variant
+gets,available
+global buffer overflow,no_single_token_variant
+good,available
+gopher SSRF,no_single_token_variant
+GraphQL,available
+GraphQL injection,no_single_token_variant
+GraphQL query cost limit,no_single_token_variant
+GraphQL query depth limit,no_single_token_variant
+guarantee,available
+guaranteed,available
+guaranteeing,no_single_token_variant
+guarantees,available
+guard,available
+guarded,available
+guarding,available
+guards,available
+hack,available
+hacked,available
+hacker,available
+hackers,available
+hacking,available
+hacks,available
+happens-before,no_single_token_variant
+hard link attack,no_single_token_variant
+hard-coded,no_single_token_variant
+hardcoded,available
+hardcoded API key,no_single_token_variant
+hardcoded credential,no_single_token_variant
+hardcoded credentials,no_single_token_variant
+hardcoded encryption key,no_single_token_variant
+hardcoded password,no_single_token_variant
+hardcoded private key,no_single_token_variant
+hardcoding,no_single_token_variant
+harden,available
+hardened,available
+hardening,no_single_token_variant
+hardens,no_single_token_variant
+harm,available
+harmed,available
+harmful,available
+harmfully,no_single_token_variant
+harming,available
+harmless,available
+harms,available
+hash collision,no_single_token_variant
+hash collision denial of service,no_single_token_variant
+hash length extension,no_single_token_variant
+hazard,available
+hazardous,available
+hazardously,no_single_token_variant
+hazards,available
+header injection,no_single_token_variant
+header normalization,no_single_token_variant
+header value validation,no_single_token_variant
+heap overflow,no_single_token_variant
+heap-based buffer overflow,no_single_token_variant
+hijack,no_single_token_variant
+hijacked,no_single_token_variant
+hijacking,no_single_token_variant
+hijacks,no_single_token_variant
+HKDF,no_single_token_variant
+HMAC,available
+homoglyph spoofing,no_single_token_variant
+horizontal privilege escalation,no_single_token_variant
+host allowlist,no_single_token_variant
+Host header,no_single_token_variant
+host header injection,no_single_token_variant
+Host header validation,no_single_token_variant
+hostname,available
+hostname allowlist,no_single_token_variant
+hostname mismatch,no_single_token_variant
+hostname verification,no_single_token_variant
+HOTP,no_single_token_variant
+HTML,available
+HTML attribute allowlist,no_single_token_variant
+HTML attribute encoding,no_single_token_variant
+HTML encoding,no_single_token_variant
+HTML escaping,no_single_token_variant
+HTML injection,no_single_token_variant
+HTML sanitization,no_single_token_variant
+HTML tag allowlist,no_single_token_variant
+HTTP,available
+HTTP desync,no_single_token_variant
+HTTP framing,no_single_token_variant
+HTTP header injection,no_single_token_variant
+HTTP parameter pollution,no_single_token_variant
+HTTP redirect,no_single_token_variant
+HTTP request smuggling,no_single_token_variant
+HTTP request splitting,no_single_token_variant
+HTTP response splitting,no_single_token_variant
+HTTP/2,no_single_token_variant
+HTTP/2 downgrade smuggling,no_single_token_variant
+HTTP/3,no_single_token_variant
+HttpOnly,no_single_token_variant
+HTTPS,available
+idempotent cleanup,no_single_token_variant
+identity assertion,no_single_token_variant
+identity provider,no_single_token_variant
+idle timeout,no_single_token_variant
+IDOR,available
+ignore,available
+ignored,available
+ignores,available
+ignoring,available
+illegal,available
+illegally,available
+IMAP injection,no_single_token_variant
+immutable shared state,no_single_token_variant
+impersonation,no_single_token_variant
+improper,available
+improper authentication,no_single_token_variant
+improper authorization,no_single_token_variant
+improper input validation,no_single_token_variant
+improperly,available
+inadequacy,no_single_token_variant
+inadequate,available
+inadequately,no_single_token_variant
+incomplete,available
+incomplete validation,no_single_token_variant
+inconsistencies,available
+inconsistency,available
+inconsistent,available
+inconsistent HTTP parsing,no_single_token_variant
+inconsistent length field,no_single_token_variant
+inconsistent snapshot,no_single_token_variant
+inconsistent validation,no_single_token_variant
+incorrect,available
+incorrect buffer size,no_single_token_variant
+incorrect length calculation,no_single_token_variant
+incorrect privilege assignment,no_single_token_variant
+incorrectly,available
+indeterminate,no_single_token_variant
+indeterminate value,no_single_token_variant
+index validation,no_single_token_variant
+ineffective,available
+inefficient,available
+infiltration,available
+infinite,available
+infinite loop,no_single_token_variant
+infinite looping,no_single_token_variant
+infinite recursion,no_single_token_variant
+infinitely,available
+information disclosure,no_single_token_variant
+information leak,no_single_token_variant
+inherited sensitive descriptor,no_single_token_variant
+initialisation,no_single_token_variant
+initialise,available
+initialised,available
+initialises,no_single_token_variant
+initialising,no_single_token_variant
+initialization,available
+initialization before use,no_single_token_variant
+initialization state,no_single_token_variant
+initialization vector,no_single_token_variant
+initialize,available
+initialize on all paths,no_single_token_variant
+initialized,available
+initialized error path,no_single_token_variant
+initialized memory,no_single_token_variant
+initialized return value,no_single_token_variant
+initializes,available
+initializing,available
+inject,available
+injected,available
+injecting,available
+injection,available
+injections,available
+injects,no_single_token_variant
+input filtering,no_single_token_variant
+input length limit,no_single_token_variant
+input range validation,no_single_token_variant
+input sanitization,no_single_token_variant
+input validation,no_single_token_variant
+insecure,available
+insecure algorithm,no_single_token_variant
+insecure cookie,no_single_token_variant
+insecure deserialization,no_single_token_variant
+insecure direct object reference,no_single_token_variant
+insecure key derivation,no_single_token_variant
+insecure randomness,no_single_token_variant
+insecure temporary file,no_single_token_variant
+insecurely,no_single_token_variant
+insecurity,available
+insufficiency,no_single_token_variant
+insufficient,available
+insufficient entropy,no_single_token_variant
+insufficient session expiration,no_single_token_variant
+insufficiently,no_single_token_variant
+INT_MIN divided by minus one,no_single_token_variant
+integer,available
+integer conversion error,no_single_token_variant
+integer overflow,no_single_token_variant
+integer range validation,no_single_token_variant
+integer truncation,no_single_token_variant
+integer underflow,no_single_token_variant
+integer wraparound,no_single_token_variant
+integrity,available
+integrity hash verification,no_single_token_variant
+intentional,available
+intentionally,available
+intermediate certificate,no_single_token_variant
+internal network access,no_single_token_variant
+internal service access,no_single_token_variant
+interpreter,available
+interpreter escape,no_single_token_variant
+invalid,available
+invalid certificate acceptance,no_single_token_variant
+invalid curve attack,no_single_token_variant
+invalid free,no_single_token_variant
+invalid length field,no_single_token_variant
+invalid lifetime,no_single_token_variant
+invalid pointer arithmetic,no_single_token_variant
+invalid read,no_single_token_variant
+invalid shift count,no_single_token_variant
+invalid write,no_single_token_variant
+invalidate,available
+invalidated,available
+invalidates,no_single_token_variant
+invalidating,no_single_token_variant
+invalidation,no_single_token_variant
+invalidly,no_single_token_variant
+invariant,available
+IP allowlist bypass,no_single_token_variant
+IP range validation,no_single_token_variant
+IPv6 validation bypass,no_single_token_variant
+isolated build environment,no_single_token_variant
+isolation,available
+isolation bypass,no_single_token_variant
+isolation level,no_single_token_variant
+issuer validation,no_single_token_variant
+iteration limit,no_single_token_variant
+iterator invalidation,no_single_token_variant
+IV reuse,no_single_token_variant
+JavaScript,available
+JavaScript injection,no_single_token_variant
+JavaScript string escaping,no_single_token_variant
+javascript URL,no_single_token_variant
+jku header injection,no_single_token_variant
+JSON,available
+JSON injection,no_single_token_variant
+jump-oriented programming,no_single_token_variant
+JWE,no_single_token_variant
+JWK,no_single_token_variant
+JWK injection,no_single_token_variant
+JWKS,no_single_token_variant
+JWS,no_single_token_variant
+JWT,available
+JWT algorithm confusion,no_single_token_variant
+JWT signature bypass,no_single_token_variant
+JWT validation,no_single_token_variant
+KDF,no_single_token_variant
+key agreement,no_single_token_variant
+key confusion,no_single_token_variant
+key exchange,no_single_token_variant
+key reuse,no_single_token_variant
+key separation,no_single_token_variant
+key type validation,no_single_token_variant
+key vault,no_single_token_variant
+key zeroization,no_single_token_variant
+keyring,no_single_token_variant
+keystore,no_single_token_variant
+kid injection,no_single_token_variant
+known plaintext attack,no_single_token_variant
+LDAP,available
+LDAP filter escaping,no_single_token_variant
+LDAP filter injection,no_single_token_variant
+LDAP injection,no_single_token_variant
+leak,available
+leak on error,no_single_token_variant
+leak on exception,no_single_token_variant
+leakage,available
+leaked,available
+leaking,available
+leaks,available
+least authority,no_single_token_variant
+least privilege,no_single_token_variant
+left shift overflow,no_single_token_variant
+legitimacy,available
+legitimate,available
+legitimately,available
+length check,no_single_token_variant
+length validation,no_single_token_variant
+length wraparound,no_single_token_variant
+library search path hijacking,no_single_token_variant
+lifetime,available
+lifetime check,no_single_token_variant
+lifetime checking,no_single_token_variant
+lifetime management,no_single_token_variant
+limitation,available
+limitations,available
+limited,available
+limiting,available
+linear-time regex,no_single_token_variant
+link-local access,no_single_token_variant
+livelock,no_single_token_variant
+local schema allowlist,no_single_token_variant
+Location header,no_single_token_variant
+lock leak,no_single_token_variant
+lock order inversion,no_single_token_variant
+lock ordering,no_single_token_variant
+lock timeout,no_single_token_variant
+lockfile validation,no_single_token_variant
+log injection,no_single_token_variant
+log redaction,no_single_token_variant
+login,available
+login bypass,no_single_token_variant
+login CSRF,no_single_token_variant
+login enumeration,no_single_token_variant
+login rate limiting,no_single_token_variant
+login throttling,no_single_token_variant
+logout,available
+logout CSRF,no_single_token_variant
+logout invalidation,no_single_token_variant
+loop,available
+loop counter wraparound,no_single_token_variant
+loopback access,no_single_token_variant
+loophole,available
+lossy conversion,no_single_token_variant
+lost allocation,no_single_token_variant
+lost update,no_single_token_variant
+lower bound check,no_single_token_variant
+MAC verification,no_single_token_variant
+malformed,available
+malformed encoding,no_single_token_variant
+malformed input,no_single_token_variant
+malfunction,available
+malicious,available
+malicious dependency,no_single_token_variant
+maliciously,no_single_token_variant
+malign,available
+malware,available
+man-in-the-middle,no_single_token_variant
+mandatory access control,no_single_token_variant
+mass assignment,no_single_token_variant
+mass assignment protection,no_single_token_variant
+maximum nesting depth,no_single_token_variant
+maximum recursion depth,no_single_token_variant
+MD5,no_single_token_variant
+memory cleanup,no_single_token_variant
+memory corruption,no_single_token_variant
+memory exhaustion,no_single_token_variant
+memory leak,no_single_token_variant
+memory leaks,no_single_token_variant
+memory limit,no_single_token_variant
+memory ordering violation,no_single_token_variant
+memory page permission,no_single_token_variant
+memory safety,no_single_token_variant
+memory tagging,no_single_token_variant
+memory zeroization,no_single_token_variant
+memory-hard password hashing,no_single_token_variant
+message authentication code,no_single_token_variant
+metadata disclosure,no_single_token_variant
+metadata endpoint access,no_single_token_variant
+MIME confusion,no_single_token_variant
+minimum key length,no_single_token_variant
+misconfiguration,no_single_token_variant
+misconfigured,no_single_token_variant
+misleading,available
+mismatched deallocation,no_single_token_variant
+mismatched new and delete,no_single_token_variant
+missing,available
+missing audience validation,no_single_token_variant
+missing authentication,no_single_token_variant
+missing authorization,no_single_token_variant
+missing certificate validation,no_single_token_variant
+missing cleanup,no_single_token_variant
+missing CSRF protection,no_single_token_variant
+missing expiration validation,no_single_token_variant
+missing format argument,no_single_token_variant
+missing free,no_single_token_variant
+missing HttpOnly flag,no_single_token_variant
+missing initialization,no_single_token_variant
+missing input validation,no_single_token_variant
+missing integrity protection,no_single_token_variant
+missing issuer validation,no_single_token_variant
+missing loop progress,no_single_token_variant
+missing null check,no_single_token_variant
+missing null termination,no_single_token_variant
+missing ownership check,no_single_token_variant
+missing reauthentication,no_single_token_variant
+missing SameSite attribute,no_single_token_variant
+missing Secure flag,no_single_token_variant
+missing session invalidation,no_single_token_variant
+missing signature verification,no_single_token_variant
+missing unlock,no_single_token_variant
+misuse,available
+misused,no_single_token_variant
+misuses,no_single_token_variant
+misusing,no_single_token_variant
+mitigate,available
+mitigated,no_single_token_variant
+mitigates,no_single_token_variant
+mitigating,no_single_token_variant
+mitig,available
+mitigation,available
+mitigations,no_single_token_variant
+MITM,no_single_token_variant
+module injection,no_single_token_variant
+modulo,available
+modulo by zero,no_single_token_variant
+modulus validation,no_single_token_variant
+MongoDB operator injection,no_single_token_variant
+monotonic progress,no_single_token_variant
+multi-factor authentication,no_single_token_variant
+multifactor authentication,no_single_token_variant
+multiplication overflow,no_single_token_variant
+mutation XSS,no_single_token_variant
+mutual authentication,no_single_token_variant
+mutual exclusion,no_single_token_variant
+name constraints,no_single_token_variant
+namespace escape,no_single_token_variant
+namespace isolation,no_single_token_variant
+narrowing conversion,no_single_token_variant
+negation overflow,no_single_token_variant
+negative index,no_single_token_variant
+negative shift,no_single_token_variant
+negative size conversion,no_single_token_variant
+network,available
+network isolation,no_single_token_variant
+no buffer overflow,no_single_token_variant
+no memory leak,no_single_token_variant
+no vulnerabilities,no_single_token_variant
+no vulnerability,no_single_token_variant
+no-follow open,no_single_token_variant
+no-new-privileges,no_single_token_variant
+non-atomic update,no_single_token_variant
+non-executable memory,no_single_token_variant
+non-executable upload directory,no_single_token_variant
+non-exploitable,no_single_token_variant
+non-exploitable code,no_single_token_variant
+non-null,no_single_token_variant
+non-progressing loop,no_single_token_variant
+non-terminating,no_single_token_variant
+non-termination,no_single_token_variant
+nonce,available
+nonce reuse,no_single_token_variant
+nonce uniqueness,no_single_token_variant
+nonce validation,no_single_token_variant
+nonnull,available
+nonnull precondition,no_single_token_variant
+nonnull type,no_single_token_variant
+nonterminating,no_single_token_variant
+nontermination,no_single_token_variant
+nonzero denominator,no_single_token_variant
+nonzero divisor,no_single_token_variant
+nonzero modulus,no_single_token_variant
+normalization,available
+normalization mismatch,no_single_token_variant
+normalize before validation,no_single_token_variant
+NoSQL,no_single_token_variant
+NoSQL injection,no_single_token_variant
+not exploitable,no_single_token_variant
+not vulnerable,no_single_token_variant
+NULL,available
+null,available
+null after free,no_single_token_variant
+null byte injection,no_single_token_variant
+null callback,no_single_token_variant
+null check,no_single_token_variant
+null dereference,no_single_token_variant
+null guard,no_single_token_variant
+null pointer access,no_single_token_variant
+NULL pointer dereference,no_single_token_variant
+null pointer read,no_single_token_variant
+null pointer write,no_single_token_variant
+null reference access,no_single_token_variant
+null termination enforcement,no_single_token_variant
+null-pointer dereference,no_single_token_variant
+null-safe access,no_single_token_variant
+nullability,no_single_token_variant
+nullability check,no_single_token_variant
+nullable dereference,no_single_token_variant
+nullptr,available
+numeric domain validation,no_single_token_variant
+numeric range check,no_single_token_variant
+numeric truncation,no_single_token_variant
+OAuth,available
+OAuth mix-up,no_single_token_variant
+OAuth2,no_single_token_variant
+object graph limit,no_single_token_variant
+object graph manipulation,no_single_token_variant
+object injection,no_single_token_variant
+object resurrection,no_single_token_variant
+object-level authorization,no_single_token_variant
+observable discrepancy,no_single_token_variant
+OCSP,no_single_token_variant
+off-by-one error,no_single_token_variant
+off-by-one overflow,no_single_token_variant
+off-by-one read,no_single_token_variant
+off-by-one write,no_single_token_variant
+OGNL injection,no_single_token_variant
+omission,available
+omitted,available
+one-time password,no_single_token_variant
+open redirect,no_single_token_variant
+openat confinement,no_single_token_variant
+OpenID Connect,no_single_token_variant
+operator allowlist,no_single_token_variant
+optimistic concurrency control,no_single_token_variant
+option injection,no_single_token_variant
+option terminator,no_single_token_variant
+optional value check,no_single_token_variant
+optional value misuse,no_single_token_variant
+order violation,no_single_token_variant
+origin allowlist,no_single_token_variant
+Origin header,no_single_token_variant
+origin validation,no_single_token_variant
+OS command injection,no_single_token_variant
+out of bounds,no_single_token_variant
+out of bounds read,no_single_token_variant
+out of bounds write,no_single_token_variant
+out-of-band SQL injection,no_single_token_variant
+out-of-bounds,no_single_token_variant
+out-of-bounds read,no_single_token_variant
+out-of-bounds write,no_single_token_variant
+out-of-range,no_single_token_variant
+outbound network restriction,no_single_token_variant
+output encoding,no_single_token_variant
+.overflow,available
+_overflow,available
+overflow,available
+overflow check,no_single_token_variant
+overflow-safe allocation,no_single_token_variant
+overflow-safe comparison,no_single_token_variant
+overflowed,no_single_token_variant
+overflowing,available
+overflows,no_single_token_variant
+overlapping copy,no_single_token_variant
+overlong encoding,no_single_token_variant
+overread,no_single_token_variant
+overreading,no_single_token_variant
+overrun,available
+oversized copy,no_single_token_variant
+ownership,available
+ownership check,no_single_token_variant
+ownership confusion,no_single_token_variant
+ownership tracking,no_single_token_variant
+ownership transfer validation,no_single_token_variant
+package typosquatting,no_single_token_variant
+padding oracle,no_single_token_variant
+parameter binding,no_single_token_variant
+parameter count validation,no_single_token_variant
+parameter entity injection,no_single_token_variant
+parameter pollution,no_single_token_variant
+parameter validation,no_single_token_variant
+parameterised,no_single_token_variant
+parameterization,no_single_token_variant
+parameterized,no_single_token_variant
+parameterized query,no_single_token_variant
+parametrization,no_single_token_variant
+paranoia,available
+paranoiac,no_single_token_variant
+paranoid,available
+parser differential,no_single_token_variant
+partially initialized object,no_single_token_variant
+passkey,no_single_token_variant
+passphrase,available
+password,available
+password guessing,no_single_token_variant
+password hash,no_single_token_variant
+password manager,no_single_token_variant
+password policy,no_single_token_variant
+password recovery,no_single_token_variant
+password reset,no_single_token_variant
+password reset bypass,no_single_token_variant
+password reset poisoning,no_single_token_variant
+password reset token expiry,no_single_token_variant
+password reuse,no_single_token_variant
+password spraying,no_single_token_variant
+password strength check,no_single_token_variant
+password verification,no_single_token_variant
+password-based key derivation,no_single_token_variant
+passwordless authentication,no_single_token_variant
+passwords,available
+patch,available
+patched,available
+patches,available
+patching,no_single_token_variant
+path,available
+path component validation,no_single_token_variant
+path containment,no_single_token_variant
+path equivalence bypass,no_single_token_variant
+path escape,no_single_token_variant
+PATH hijacking,no_single_token_variant
+path injection,no_single_token_variant
+path normalization bypass,no_single_token_variant
+path prefix bypass,no_single_token_variant
+path traversal,no_single_token_variant
+path truncation,no_single_token_variant
+path validation,no_single_token_variant
+PBKDF2,no_single_token_variant
+peer verification,no_single_token_variant
+per-instance credentials,no_single_token_variant
+per-tenant quota,no_single_token_variant
+per-user quota,no_single_token_variant
+permission,available
+permission bypass,no_single_token_variant
+permission check,no_single_token_variant
+permission enforcement,no_single_token_variant
+permission inheritance validation,no_single_token_variant
+permissions,available
+permissive CORS,no_single_token_variant
+persistent session after logout,no_single_token_variant
+personal data,no_single_token_variant
+personally identifiable information,no_single_token_variant
+phishing,available
+phishing-resistant authentication,no_single_token_variant
+pickle,available
+PII,available
+PKCE,no_single_token_variant
+plaintext,available
+plaintext credential,no_single_token_variant
+plugin loader,no_single_token_variant
+plugin signature verification,no_single_token_variant
+pointer,available
+pointer authentication,no_single_token_variant
+pointer out of bounds,no_single_token_variant
+pointer overflow,no_single_token_variant
+pointer validation,no_single_token_variant
+poison,available
+poisoned,available
+poisoning,available
+policy enforcement,no_single_token_variant
+Poly1305,no_single_token_variant
+polymorphic deserialization abuse,no_single_token_variant
+polynomial backtracking,no_single_token_variant
+port allowlist,no_single_token_variant
+potential vulnerability,no_single_token_variant
+potentially vulnerable,no_single_token_variant
+power side channel,no_single_token_variant
+precaution,available
+precautionary,no_single_token_variant
+precautions,available
+precondition range check,no_single_token_variant
+predictable IV,no_single_token_variant
+predictable password,no_single_token_variant
+predictable random seed,no_single_token_variant
+predictable session identifier,no_single_token_variant
+predictable temporary filename,no_single_token_variant
+predictable token,no_single_token_variant
+premature deallocation,no_single_token_variant
+prepared query,no_single_token_variant
+prepared statement,no_single_token_variant
+prepared statements,no_single_token_variant
+PreparedStatement,available
+prevent,available
+preventable,no_single_token_variant
+preventative,available
+prevented,available
+preventing,available
+prevention,available
+preventive,available
+prevents,available
+prevents buffer overflow,no_single_token_variant
+prevents exploitation,no_single_token_variant
+prevents injection,no_single_token_variant
+prevents out-of-bounds access,no_single_token_variant
+privacy,available
+privacy-preserving logging,no_single_token_variant
+private data leakage,no_single_token_variant
+private key,no_single_token_variant
+privilege,available
+privilege abuse,no_single_token_variant
+privilege dropping,no_single_token_variant
+privilege escalation,no_single_token_variant
+privilege retention,no_single_token_variant
+privilege revocation,no_single_token_variant
+privilege separation,no_single_token_variant
+privileged container,no_single_token_variant
+privileges,available
+PRNG,no_single_token_variant
+problem,available
+problematic,available
+problematic behavior,no_single_token_variant
+problems,available
+process boundary,no_single_token_variant
+process exhaustion,no_single_token_variant
+process isolation,no_single_token_variant
+process limit,no_single_token_variant
+progress check,no_single_token_variant
+progress measure,no_single_token_variant
+proof of possession,no_single_token_variant
+proper bounds checking,no_single_token_variant
+properly,available
+protect,available
+protected,available
+protecting,available
+protection,available
+protections,available
+protective,available
+protectively,no_single_token_variant
+protects,available
+protocol injection,no_single_token_variant
+protocol smuggling,no_single_token_variant
+protocol-relative redirect,no_single_token_variant
+protocol-relative URL,no_single_token_variant
+prototype pollution,no_single_token_variant
+public key pinning,no_single_token_variant
+quadratic blowup,no_single_token_variant
+queries,available
+query,available
+query allowlist,no_single_token_variant
+query injection,no_single_token_variant
+query parameterization,no_single_token_variant
+query structure manipulation,no_single_token_variant
+queue exhaustion,no_single_token_variant
+queue limit,no_single_token_variant
+race condition,no_single_token_variant
+race during cleanup,no_single_token_variant
+race during revocation,no_single_token_variant
+RAII,no_single_token_variant
+random IV,no_single_token_variant
+randomized upload filename,no_single_token_variant
+randomness,available
+range check,no_single_token_variant
+range validation,no_single_token_variant
+ransom,available
+rate limit,no_single_token_variant
+rate limiting,no_single_token_variant
+RBAC,no_single_token_variant
+RC4,no_single_token_variant
+read past end,no_single_token_variant
+read-only field enforcement,no_single_token_variant
+read-only filesystem,no_single_token_variant
+read-write locking,no_single_token_variant
+reallocation invalidation,no_single_token_variant
+reauthentication,no_single_token_variant
+recheck,no_single_token_variant
+rechecked,no_single_token_variant
+rechecking,no_single_token_variant
+rechecks,no_single_token_variant
+recovery code,no_single_token_variant
+recursion,available
+recursion limit,no_single_token_variant
+recursive expansion,no_single_token_variant
+recursive locking deadlock,no_single_token_variant
+redirect,available
+redirect allowlist,no_single_token_variant
+redirect allowlist bypass,no_single_token_variant
+redirect destination allowlist,no_single_token_variant
+redirect destination confusion,no_single_token_variant
+redirect host validation,no_single_token_variant
+redirect injection,no_single_token_variant
+redirect parameter tampering,no_single_token_variant
+redirect restriction,no_single_token_variant
+redirect scheme validation,no_single_token_variant
+redirect target validation,no_single_token_variant
+redirect URI manipulation,no_single_token_variant
+redirect validation,no_single_token_variant
+redirect validation bypass,no_single_token_variant
+redirect-based SSRF,no_single_token_variant
+redirection,available
+redirects,available
+ReDoS,no_single_token_variant
+reentrancy,no_single_token_variant
+reentrancy boundary,no_single_token_variant
+reentrancy guard,no_single_token_variant
+reentrant callback,no_single_token_variant
+reference count overflow,no_single_token_variant
+reference count underflow,no_single_token_variant
+reference cycle leak,no_single_token_variant
+Referer header,no_single_token_variant
+referer validation,no_single_token_variant
+reflected XSS,no_single_token_variant
+reflection allowlist,no_single_token_variant
+reflection injection,no_single_token_variant
+refresh token,no_single_token_variant
+refresh token reuse,no_single_token_variant
+refresh token reuse detection,no_single_token_variant
+refresh token rotation,no_single_token_variant
+regex injection,no_single_token_variant
+regex timeout,no_single_token_variant
+regular expression denial of service,no_single_token_variant
+regular expression injection,no_single_token_variant
+reject,available
+reject absolute paths,no_single_token_variant
+reject ambiguous framing,no_single_token_variant
+reject duplicate Content-Length,no_single_token_variant
+reject duplicate keys,no_single_token_variant
+reject embedded nulls,no_single_token_variant
+reject external entity references,no_single_token_variant
+reject malformed input,no_single_token_variant
+reject out-of-range values,no_single_token_variant
+reject parent directory references,no_single_token_variant
+reject unknown fields,no_single_token_variant
+reject untrusted type metadata,no_single_token_variant
+rejected,available
+rejecting,available
+rejection,available
+rejections,no_single_token_variant
+rejects,available
+relative path traversal,no_single_token_variant
+relative redirect restriction,no_single_token_variant
+reliability,available
+reliable,available
+reliably,available
+remedial,no_single_token_variant
+remediate,no_single_token_variant
+remediated,no_single_token_variant
+remediates,no_single_token_variant
+remediating,no_single_token_variant
+remediation,no_single_token_variant
+remediations,no_single_token_variant
+remote code execution,no_single_token_variant
+repair,available
+repaired,available
+repairing,available
+repairs,available
+repeated deallocation,no_single_token_variant
+replay-resistant authentication,no_single_token_variant
+reproducible build,no_single_token_variant
+request amplification,no_single_token_variant
+request boundary validation,no_single_token_variant
+request forgery,no_single_token_variant
+request parameter validation,no_single_token_variant
+request size limit,no_single_token_variant
+request smuggling,no_single_token_variant
+request splitting,no_single_token_variant
+resolve and validate,no_single_token_variant
+resolved address pinning,no_single_token_variant
+resolved path comparison,no_single_token_variant
+resource,available
+resource accounting,no_single_token_variant
+resource budget,no_single_token_variant
+resource cleanup,no_single_token_variant
+resource exhaustion,no_single_token_variant
+resource leak,no_single_token_variant
+resource limit,no_single_token_variant
+resource limits,no_single_token_variant
+resource ownership validation,no_single_token_variant
+resources,available
+response header injection,no_single_token_variant
+response header sanitization,no_single_token_variant
+response size limit,no_single_token_variant
+response size padding,no_single_token_variant
+response splitting,no_single_token_variant
+restrict,available
+restricted,available
+restricted builtins,no_single_token_variant
+restricted command execution,no_single_token_variant
+restricted CORS,no_single_token_variant
+restricted deserialization,no_single_token_variant
+restricted device access,no_single_token_variant
+restricted entity resolver,no_single_token_variant
+restricted evaluation,no_single_token_variant
+restricted filesystem mount,no_single_token_variant
+restricted interpreter,no_single_token_variant
+restricted unpickler,no_single_token_variant
+restricting,available
+restriction,available
+restrictions,available
+restrictive,available
+restrictive file permissions,no_single_token_variant
+restrictively,no_single_token_variant
+restricts,no_single_token_variant
+retry amplification,no_single_token_variant
+retry limit,no_single_token_variant
+retry storm,no_single_token_variant
+return address overwrite,no_single_token_variant
+overwrite,available
+overwritten,available
+return-oriented programming,no_single_token_variant
+reused one-time pad,no_single_token_variant
+risk,available
+risk assessment,no_single_token_variant
+risking,available
+risks,available
+risky,available
+robust,available
+role check,no_single_token_variant
+role confusion,no_single_token_variant
+role-based access control,no_single_token_variant
+rollback attack,no_single_token_variant
+rollback protection,no_single_token_variant
+root directory restriction,no_single_token_variant
+RSA,available
+RSA-OAEP,no_single_token_variant
+RSA-PSS,no_single_token_variant
+runaway loop,no_single_token_variant
+runtime secret injection,no_single_token_variant
+sabotage,available
+-safe,available
+safe,available
+safe archive extraction,no_single_token_variant
+safe buffer allocation,no_single_token_variant
+safe deserialization,no_single_token_variant
+safe DOM API,no_single_token_variant
+safe expression parser,no_single_token_variant
+safe literal evaluation,no_single_token_variant
+safe path join,no_single_token_variant
+safe publication,no_single_token_variant
+safe query construction,no_single_token_variant
+safe URL validation,no_single_token_variant
+safe YAML loader,no_single_token_variant
+safeguard,available
+safeguarded,no_single_token_variant
+safeguarding,no_single_token_variant
+safeguards,available
+safely,available
+safer,available
+safest,available
+safety,available
+salted password hashing,no_single_token_variant
+same-origin policy,no_single_token_variant
+same-origin redirect,no_single_token_variant
+SameSite,no_single_token_variant
+SameSite Lax,no_single_token_variant
+SameSite Strict,no_single_token_variant
+SAML,no_single_token_variant
+SAML wrapping,no_single_token_variant
+sandbox,available
+sandbox escape,no_single_token_variant
+sandboxed,no_single_token_variant
+sanit,available
+sanitisation,no_single_token_variant
+sanitise,no_single_token_variant
+sanitised,no_single_token_variant
+sanitiser,no_single_token_variant
+sanitisers,no_single_token_variant
+sanitises,no_single_token_variant
+sanitising,no_single_token_variant
+sanitization,no_single_token_variant
+sanitize,available
+sanitized,available
+sanitizer,available
+sanitizer bypass,no_single_token_variant
+sanitizers,no_single_token_variant
+sanitizes,no_single_token_variant
+sanitizing,no_single_token_variant
+saturating arithmetic,no_single_token_variant
+saturation,available
+SBOM,no_single_token_variant
+schema bypass,no_single_token_variant
+schema validation,no_single_token_variant
+scheme allowlist,no_single_token_variant
+scheme-relative redirect,no_single_token_variant
+scoped access token,no_single_token_variant
+scoped credentials,no_single_token_variant
+scoped locking,no_single_token_variant
+script,available
+script engine escape,no_single_token_variant
+script injection,no_single_token_variant
+script isolation,no_single_token_variant
+script source restriction,no_single_token_variant
+scrypt,no_single_token_variant
+seccomp,no_single_token_variant
+second-order SQL injection,no_single_token_variant
+secret,available
+secret access control,no_single_token_variant
+secret data,no_single_token_variant
+secret in binary,no_single_token_variant
+secret in configuration,no_single_token_variant
+secret in crash dump,no_single_token_variant
+secret in environment dump,no_single_token_variant
+secret in error message,no_single_token_variant
+secret in log,no_single_token_variant
+secret in repository,no_single_token_variant
+secret in source code,no_single_token_variant
+secret key,no_single_token_variant
+secret lifetime,no_single_token_variant
+secret management,no_single_token_variant
+secret provider,no_single_token_variant
+secret redaction,no_single_token_variant
+secret rotation,no_single_token_variant
+secret scanning,no_single_token_variant
+secret storage,no_single_token_variant
+secret zeroization,no_single_token_variant
+secrets,available
+secure,available
+secure algorithm,no_single_token_variant
+secure cookie,no_single_token_variant
+secure credential storage,no_single_token_variant
+secure default,no_single_token_variant
+secure defaults,no_single_token_variant
+secure deletion,no_single_token_variant
+secure entropy source,no_single_token_variant
+secure error handling,no_single_token_variant
+secure key derivation,no_single_token_variant
+secure key generation,no_single_token_variant
+secure password reset,no_single_token_variant
+secure random,no_single_token_variant
+secure session storage,no_single_token_variant
+secure temporary file,no_single_token_variant
+secure XML parser configuration,no_single_token_variant
+secure XML parsing,no_single_token_variant
+secured,available
+securely,available
+secures,no_single_token_variant
+securing,available
+-security,available
+/security,available
+security,available
+security assessment,no_single_token_variant
+security boundary,no_single_token_variant
+security bug,no_single_token_variant
+security bugs,no_single_token_variant
+security check,no_single_token_variant
+security checks,no_single_token_variant
+security context,no_single_token_variant
+security defect,no_single_token_variant
+security defects,no_single_token_variant
+security failure,no_single_token_variant
+security failures,no_single_token_variant
+security flaw,no_single_token_variant
+security flaws,no_single_token_variant
+security hazard,no_single_token_variant
+security hazards,no_single_token_variant
+security mitigation,no_single_token_variant
+security mitigations,no_single_token_variant
+security patch,no_single_token_variant
+security principal,no_single_token_variant
+security risk,no_single_token_variant
+security risks,no_single_token_variant
+security vulnerabilities,no_single_token_variant
+security vulnerability,no_single_token_variant
+security weakness,no_single_token_variant
+self-signed certificate acceptance,no_single_token_variant
+semantic validation,no_single_token_variant
+sensitive,available
+sensitive data,no_single_token_variant
+sensitive data encryption,no_single_token_variant
+sensitive data exposure,no_single_token_variant
+sensitive field filtering,no_single_token_variant
+separate executable and arguments,no_single_token_variant
+separate query and data,no_single_token_variant
+separation of duties,no_single_token_variant
+separator injection,no_single_token_variant
+serializable transaction,no_single_token_variant
+serialization,available
+server side request forgery,no_single_token_variant
+server-side authorization,no_single_token_variant
+server-side include injection,no_single_token_variant
+server-side request forgery,no_single_token_variant
+server-side template injection,no_single_token_variant
+service credential,no_single_token_variant
+session binding,no_single_token_variant
+session cookie theft,no_single_token_variant
+session expiration,no_single_token_variant
+session fixation,no_single_token_variant
+session fixation protection,no_single_token_variant
+session hijacking,no_single_token_variant
+session identifier,no_single_token_variant
+session identifier entropy,no_single_token_variant
+session identifier in URL,no_single_token_variant
+session invalidation,no_single_token_variant
+session prediction,no_single_token_variant
+session puzzling,no_single_token_variant
+session regeneration,no_single_token_variant
+session replay,no_single_token_variant
+session revocation,no_single_token_variant
+session rotation,no_single_token_variant
+session swapping,no_single_token_variant
+session token exposure,no_single_token_variant
+session token leakage,no_single_token_variant
+Set-Cookie,no_single_token_variant
+severe,available
+severely,available
+severity,available
+SHA-256,no_single_token_variant
+SHA-3,no_single_token_variant
+SHA-512,no_single_token_variant
+SHA1,no_single_token_variant
+SHA256,no_single_token_variant
+SHA512,no_single_token_variant
+shadow stack,no_single_token_variant
+shared credential,no_single_token_variant
+shared ownership tracking,no_single_token_variant
+shared password,no_single_token_variant
+shell,available
+shell escaping,no_single_token_variant
+shell injection,no_single_token_variant
+shell metacharacter injection,no_single_token_variant
+shell quoting,no_single_token_variant
+shell-free execution,no_single_token_variant
+shift beyond width,no_single_token_variant
+short key,no_single_token_variant
+short-lived credentials,no_single_token_variant
+side channel,no_single_token_variant
+side-channel observation,no_single_token_variant
+signed,available
+sign extension error,no_single_token_variant
+signal handler race,no_single_token_variant
+signal-safe handler,no_single_token_variant
+signature algorithm,no_single_token_variant
+signature forgery,no_single_token_variant
+signature malleability protection,no_single_token_variant
+signature verification,no_single_token_variant
+signed integer overflow,no_single_token_variant
+signed overflow,no_single_token_variant
+signedness,no_single_token_variant
+signedness conversion error,no_single_token_variant
+signedness error,no_single_token_variant
+single deallocation,no_single_token_variant
+single ownership,no_single_token_variant
+single-use authorization code,no_single_token_variant
+single-use reset token,no_single_token_variant
+single-use session token,no_single_token_variant
+size addition check,no_single_token_variant
+size calculation overflow,no_single_token_variant
+size limit,no_single_token_variant
+size multiplication check,no_single_token_variant
+size overflow,no_single_token_variant
+size side channel,no_single_token_variant
+size validation,no_single_token_variant
+size-aware API,no_single_token_variant
+small subgroup attack,no_single_token_variant
+SMTP injection,no_single_token_variant
+snapshot isolation,no_single_token_variant
+socket exhaustion,no_single_token_variant
+software bill of materials,no_single_token_variant
+source code disclosure,no_single_token_variant
+source length validation,no_single_token_variant
+span-based access,no_single_token_variant
+specifier,available
+spoof,available
+spoofed,no_single_token_variant
+spoofing,no_single_token_variant
+spoofs,no_single_token_variant
+spreadsheet formula injection,no_single_token_variant
+sprintf,available
+.SQL,available
+(SQL,available
+_SQL,available
+SQL,available
+SQL comment injection,no_single_token_variant
+SQL escaping bypass,no_single_token_variant
+SQL identifier allowlist,no_single_token_variant
+SQL identifier injection,no_single_token_variant
+SQL injection,no_single_token_variant
+SQL parameter binding,no_single_token_variant
+SQL wildcard injection,no_single_token_variant
+SQLException,available
+SQLi,no_single_token_variant
+SQLite,available
+SSI injection,no_single_token_variant
+SSL,available
+SSRF,no_single_token_variant
+SSTI,no_single_token_variant
+stack canary,no_single_token_variant
+stack exhaustion,no_single_token_variant
+stack overflow,no_single_token_variant
+stack smashing,no_single_token_variant
+stack trace disclosure,no_single_token_variant
+stack use after return,no_single_token_variant
+stack use after scope,no_single_token_variant
+stack-based buffer overflow,no_single_token_variant
+stacked query injection,no_single_token_variant
+stale handle,no_single_token_variant
+stale pointer,no_single_token_variant
+stale read,no_single_token_variant
+stale reference,no_single_token_variant
+starvation,available
+state parameter validation,no_single_token_variant
+static credential,no_single_token_variant
+step-up authentication,no_single_token_variant
+stolen credentials,no_single_token_variant
+stored procedure injection,no_single_token_variant
+stored procedure parameterization,no_single_token_variant
+stored XSS,no_single_token_variant
+stream cipher,no_single_token_variant
+strcpy,available
+memcpy,available
+strnicpy,no_single_token_variant
+strict,available
+strict HTTP parsing,no_single_token_variant
+strict input validation,no_single_token_variant
+strict object mapping,no_single_token_variant
+strict parsing,no_single_token_variant
+strict type validation,no_single_token_variant
+strict validation,no_single_token_variant
+stricter,available
+strictest,no_single_token_variant
+strictly,available
+strictness,no_single_token_variant
+strong,available
+strong cryptography,no_single_token_variant
+structured input validation,no_single_token_variant
+structured query API,no_single_token_variant
+subgroup validation,no_single_token_variant
+subject alternative name,no_single_token_variant
+subject alternative name validation,no_single_token_variant
+subprocess timeout,no_single_token_variant
+subtraction overflow,no_single_token_variant
+susceptible,available
+susceptibility,available
+suspect,available
+suspected,available
+suspects,available
+suspicion,available
+suspicions,available
+suspicious,available
+symbolic link attack,no_single_token_variant
+symlink escape,no_single_token_variant
+symlink race,no_single_token_variant
+symlink restriction,no_single_token_variant
+symlink target validation,no_single_token_variant
+symlink traversal,no_single_token_variant
+synchronized access,no_single_token_variant
+synchronizer token,no_single_token_variant
+syntactic validation,no_single_token_variant
+system call filter,no_single_token_variant
+system call filtering,no_single_token_variant
+tainted code,no_single_token_variant
+tainted format string,no_single_token_variant
+tainted input,no_single_token_variant
+tainted query,no_single_token_variant
+tamper,no_single_token_variant
+tampered,no_single_token_variant
+tampering,no_single_token_variant
+tampers,no_single_token_variant
+tar traversal,no_single_token_variant
+TE.CL smuggling,no_single_token_variant
+template,available
+template autoescaping,no_single_token_variant
+template sandbox,no_single_token_variant
+template sandbox escape,no_single_token_variant
+temporary file race,no_single_token_variant
+tenant boundary enforcement,no_single_token_variant
+tenant isolation,no_single_token_variant
+tenant isolation failure,no_single_token_variant
+termination check,no_single_token_variant
+termination proof,no_single_token_variant
+thread confinement,no_single_token_variant
+thread exhaustion,no_single_token_variant
+thread limit,no_single_token_variant
+thread pool size,no_single_token_variant
+thread safety,no_single_token_variant
+threat,available
+threat model,no_single_token_variant
+threatened,available
+threatening,available
+threatens,available
+threats,available
+time of check to time of use,no_single_token_variant
+time-based SQL injection,no_single_token_variant
+time-of-check time-of-use,no_single_token_variant
+timing attack,no_single_token_variant
+timing leak,no_single_token_variant
+TLS,available
+TLS peer authentication,no_single_token_variant
+TLS verification disabled,no_single_token_variant
+TOCTOU,no_single_token_variant
+TOCTOU race,no_single_token_variant
+token audience,no_single_token_variant
+token binding,no_single_token_variant
+token endpoint authentication,no_single_token_variant
+token introspection,no_single_token_variant
+token leakage,no_single_token_variant
+token replay,no_single_token_variant
+token revocation,no_single_token_variant
+token signature,no_single_token_variant
+token substitution,no_single_token_variant
+token theft,no_single_token_variant
+TOTP,no_single_token_variant
+transaction isolation,no_single_token_variant
+transactional update,no_single_token_variant
+Transfer-Encoding,no_single_token_variant
+traversal,available
+trojan,available
+truncated input,no_single_token_variant
+trust,available
+trust anchor,no_single_token_variant
+trust anchor validation,no_single_token_variant
+trust boundary,no_single_token_variant
+trust store,no_single_token_variant
+trusted domain prefix bypass,no_single_token_variant
+trusted format literal,no_single_token_variant
+trusted package source,no_single_token_variant
+trusted proxy configuration,no_single_token_variant
+Trusted Types,no_single_token_variant
+trusted update channel,no_single_token_variant
+trustworthy,available
+two-factor authentication,no_single_token_variant
+type allowlist,no_single_token_variant
+type coercion bypass,no_single_token_variant
+type confusion,no_single_token_variant
+type metadata injection,no_single_token_variant
+type mismatch,no_single_token_variant
+type punning violation,no_single_token_variant
+type safety,no_single_token_variant
+typed query parameter,no_single_token_variant
+UAF,no_single_token_variant
+unacceptable,available
+unauthenticated,no_single_token_variant
+unauthenticated encryption,no_single_token_variant
+unauthorised,no_single_token_variant
+unauthorized,available
+unauthorized access,no_single_token_variant
+unauthorized deletion,no_single_token_variant
+unauthorized disclosure,no_single_token_variant
+unauthorized modification,no_single_token_variant
+unbound SQL parameter,no_single_token_variant
+unbounded,no_single_token_variant
+unbounded allocation,no_single_token_variant
+unbounded cache,no_single_token_variant
+unbounded copy,no_single_token_variant
+unbounded loop,no_single_token_variant
+unbounded polling,no_single_token_variant
+unbounded queue,no_single_token_variant
+unbounded recursion,no_single_token_variant
+unbounded resource consumption,no_single_token_variant
+unbounded retry,no_single_token_variant
+unbounded sprintf,no_single_token_variant
+UNC path injection,no_single_token_variant
+unchecked,available
+unchecked allocation failure,no_single_token_variant
+unchecked copy,no_single_token_variant
+unchecked denominator,no_single_token_variant
+unchecked index,no_single_token_variant
+unchecked null return,no_single_token_variant
+uncontrolled,no_single_token_variant
+uncontrolled format string,no_single_token_variant
+uncontrolled recursion,no_single_token_variant
+undefended,no_single_token_variant
+undefined,available
+undefined behavior,no_single_token_variant
+undefined behaviour,no_single_token_variant
+underflow,no_single_token_variant
+underflow check,no_single_token_variant
+underflowed,no_single_token_variant
+underflowing,no_single_token_variant
+underflows,no_single_token_variant
+undesirable,available
+undesired,no_single_token_variant
+unescaped attribute,no_single_token_variant
+unescaped HTML,no_single_token_variant
+unescaped JavaScript,no_single_token_variant
+unescaped shell argument,no_single_token_variant
+unethical,available
+unexpected,available
+unexpectedly,available
+unexploitable,no_single_token_variant
+unfixed,no_single_token_variant
+unguarded,no_single_token_variant
+unhardened,no_single_token_variant
+Unicode confusion,no_single_token_variant
+Unicode normalization,no_single_token_variant
+Unicode normalization bypass,no_single_token_variant
+uniform authentication errors,no_single_token_variant
+uniform error response,no_single_token_variant
+uninitialised,no_single_token_variant
+uninitialized,available
+uninitialized flag,no_single_token_variant
+uninitialized heap memory,no_single_token_variant
+uninitialized length,no_single_token_variant
+uninitialized memory,no_single_token_variant
+uninitialized memory disclosure,no_single_token_variant
+uninitialized memory read,no_single_token_variant
+uninitialized padding disclosure,no_single_token_variant
+uninitialized pointer,no_single_token_variant
+uninitialized read,no_single_token_variant
+uninitialized return value,no_single_token_variant
+uninitialized stack variable,no_single_token_variant
+uninitialized variable,no_single_token_variant
+unintended,available
+unintentional,no_single_token_variant
+unintentionally,no_single_token_variant
+union-based SQL injection,no_single_token_variant
+unique credentials,no_single_token_variant
+unique IV,no_single_token_variant
+unique nonce,no_single_token_variant
+unique ownership,no_single_token_variant
+unique salt,no_single_token_variant
+universal XSS,no_single_token_variant
+unlawful,available
+unlimited,available
+unlimited allocation,no_single_token_variant
+unmitigated,no_single_token_variant
+unparameterized query,no_single_token_variant
+unparameterized SQL,no_single_token_variant
+unpatched,no_single_token_variant
+unprotectable,no_single_token_variant
+unprotected,available
+unquoted command,no_single_token_variant
+unreleased memory,no_single_token_variant
+unrestricted,available
+unrestricted file upload,no_single_token_variant
+unrestricted system call,no_single_token_variant
+unsafe,available
+unsafe archive extraction,no_single_token_variant
+unsafe capability grant,no_single_token_variant
+unsafe compilation,no_single_token_variant
+unsafe deserialization,no_single_token_variant
+unsafe document.write,no_single_token_variant
+unsafe eval,no_single_token_variant
+unsafe exec,no_single_token_variant
+unsafe file permissions,no_single_token_variant
+unsafe file upload,no_single_token_variant
+unsafe HTML rendering,no_single_token_variant
+unsafe innerHTML,no_single_token_variant
+unsafe lazy initialization,no_single_token_variant
+unsafe native interface,no_single_token_variant
+unsafe object binding,no_single_token_variant
+unsafe pickle loading,no_single_token_variant
+unsafe plugin loading,no_single_token_variant
+unsafe pointer cast,no_single_token_variant
+unsafe printf,no_single_token_variant
+unsafe publication,no_single_token_variant
+unsafe query concatenation,no_single_token_variant
+unsafe reflection,no_single_token_variant
+unsafe shell invocation,no_single_token_variant
+unsafe subprocess invocation,no_single_token_variant
+unsafe template interpolation,no_single_token_variant
+unsafe YAML loading,no_single_token_variant
+unsafely,no_single_token_variant
+unsafety,no_single_token_variant
+unsalted password hash,no_single_token_variant
+unsanitised,no_single_token_variant
+unsanitized,no_single_token_variant
+unsigned integer overflow,no_single_token_variant
+unsigned JWT,no_single_token_variant
+unsigned underflow,no_single_token_variant
+unsigned update,no_single_token_variant
+unspecified,available
+unterminated string,no_single_token_variant
+untrusted build script,no_single_token_variant
+untrusted certificate authority,no_single_token_variant
+untrusted command,no_single_token_variant
+untrusted dependency,no_single_token_variant
+untrusted deserialization,no_single_token_variant
+untrusted environment,no_single_token_variant
+untrusted executable,no_single_token_variant
+untrusted expression,no_single_token_variant
+untrusted HTML,no_single_token_variant
+untrusted input,no_single_token_variant
+untrusted object construction,no_single_token_variant
+untrusted plugin,no_single_token_variant
+untrusted redirect,no_single_token_variant
+untrusted redirect target,no_single_token_variant
+untrusted script,no_single_token_variant
+untrusted search path,no_single_token_variant
+untrusted template,no_single_token_variant
+unvalidated,no_single_token_variant
+unvalidated destination,no_single_token_variant
+unvalidated divisor,no_single_token_variant
+unvalidated forward,no_single_token_variant
+unvalidated redirect,no_single_token_variant
+unverified,no_single_token_variant
+unverified certificate,no_single_token_variant
+unverified download,no_single_token_variant
+unverified password change,no_single_token_variant
+update signature bypass,no_single_token_variant
+update signature verification,no_single_token_variant
+upload isolation,no_single_token_variant
+upload size limit,no_single_token_variant
+upload type allowlist,no_single_token_variant
+upper bound check,no_single_token_variant
+URL,available
+URL allowlist bypass,no_single_token_variant
+URL canonicalization,no_single_token_variant
+URL encoding,no_single_token_variant
+URL parser confusion,no_single_token_variant
+URL scheme allowlist,no_single_token_variant
+URL scheme injection,no_single_token_variant
+URL validation,no_single_token_variant
+use after free,no_single_token_variant
+use after return,no_single_token_variant
+use after scope,no_single_token_variant
+use-after-free,no_single_token_variant
+use-after-return,no_single_token_variant
+use-after-scope,no_single_token_variant
+user-controlled format string,no_single_token_variant
+username enumeration,no_single_token_variant
+valid,available
+validate,available
+validated,available
+validated input,no_single_token_variant
+validated return URL,no_single_token_variant
+validates,available
+validating,available
+validation,available
+validation bypass,no_single_token_variant
+validation disabled,no_single_token_variant
+validations,available
+validator,available
+validators,available
+validity,available
+variadic type mismatch,no_single_token_variant
+verification,available
+verifications,no_single_token_variant
+verified,available
+verified download,no_single_token_variant
+verifier,available
+verifiers,no_single_token_variant
+verifies,available
+verify,available
+verifying,available
+vertical privilege escalation,no_single_token_variant
+violate,available
+violated,available
+violates,available
+violating,available
+violation,available
+violations,available
+vtable corruption,no_single_token_variant
+vulnerabilities,available
+Vulner,available
+vulnerability,available
+vulnerability assessment,no_single_token_variant
+vulnerability fix,no_single_token_variant
+vulnerability remediation,no_single_token_variant
+vulnerable,available
+vulnerably,no_single_token_variant
+warn,available
+warned,available
+warning,available
+warnings,available
+warns,available
+weak,available
+weak authentication,no_single_token_variant
+weak cipher,no_single_token_variant
+weak cryptography,no_single_token_variant
+weak hash,no_single_token_variant
+weak key,no_single_token_variant
+weak password,no_single_token_variant
+weak password hashing,no_single_token_variant
+weak random number generator,no_single_token_variant
+weak reference cycle,no_single_token_variant
+weaken,available
+weakened,available
+weakening,available
+weakens,no_single_token_variant
+weakness,available
+weaknesses,available
+web cache deception,no_single_token_variant
+WebAuthn,no_single_token_variant
+whitelist,available
+blacklist,available
+whitelisted,no_single_token_variant
+blacklisted,no_single_token_variant
+whitelisting,no_single_token_variant
+whitelists,no_single_token_variant
+widened intermediate arithmetic,no_single_token_variant
+wildcard certificate mismatch,no_single_token_variant
+wildcard credentialed CORS,no_single_token_variant
+work limit,no_single_token_variant
+world-readable secret,no_single_token_variant
+world-writable file,no_single_token_variant
+wraparound,no_single_token_variant
+write past end,no_single_token_variant
+wrong,available
+wrongdoing,available
+wrongful,available
+wrongly,available
+X-Forwarded-For,no_single_token_variant
+X.509,no_single_token_variant
+X509,no_single_token_variant
+XInclude,no_single_token_variant
+XInclude injection,no_single_token_variant
+XML,available
+XML bomb,no_single_token_variant
+XML entity expansion,no_single_token_variant
+XML entity limit,no_single_token_variant
+XML entity recursion,no_single_token_variant
+XML external entity,no_single_token_variant
+XML external entity injection,no_single_token_variant
+XML injection,no_single_token_variant
+XML parser SSRF,no_single_token_variant
+XML schema,no_single_token_variant
+XML signature wrapping,no_single_token_variant
+XPath,available
+XPath injection,no_single_token_variant
+XPath query injection,no_single_token_variant
+XPath variable binding,no_single_token_variant
+XQuery,no_single_token_variant
+XQuery injection,no_single_token_variant
+XSS,available
+XXE,no_single_token_variant
+XXE data exfiltration,no_single_token_variant
+YAML,available
+YAML injection,no_single_token_variant
+zero,available
+zero check,no_single_token_variant
+zero denominator,no_single_token_variant
+zero division,no_single_token_variant
+zero divisor,no_single_token_variant
+zero modulus,no_single_token_variant
+zero remainder operand,no_single_token_variant
+zip bomb,no_single_token_variant
+zip slip,no_single_token_variant
+zip traversal,no_single_token_variant
+不安全,available
+溢,available
+保护,available
+危险,available
+安全,available
+安全隐患,available
+恶意,available
+泄露,available
+注入,available
+溢出,available
+漏洞,available
+缺陷,available
+错误,available
+防护,available
+防,available
+防范,available
+脆弱,available
+취약,available
+安全性,available
+的安全性,available
+安全的,available
+防止,available
+风险,available
+验证,available

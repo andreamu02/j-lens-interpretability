@@ -1,0 +1,1481 @@
+token_id,surface,groups,terms,context_sensitive,typo
+544,ast,generic,AST,False,False
+815,error,generic|vuln,error,True,False
+819, null,CWE-476|generic,NULL|null,True,False
+909, des,CWE-327|generic,DES,False,False
+1050,url,CWE-601|CWE-918|generic,URL,True,False
+1211,http,generic,HTTP,False,False
+1387, break,generic|vuln,break,True,False
+1401,Error,generic|vuln,error,True,False
+1412, error,generic|vuln,error,True,False
+1497,html,CWE-79|generic,HTML,False,False
+1574,query,CWE-89|generic,query,True,False
+1603, good,generic|safety,good,True,False
+1696, http,generic,HTTP,False,False
+1708, NULL,CWE-476|generic,NULL|null,True,False
+1716, check,generic|safety,check,True,False
+1752, path,CWE-22|generic,path,True,False
+1757,Path,CWE-22|generic,path,True,False
+1826,valid,generic|safety,valid,True,False
+1845, free,CWE-415|CWE-416|generic,free,True,False
+1960,check,generic|safety,check,True,False
+2070, allow,generic,allow,True,False
+2101, dep,generic|safety,DEP,False,False
+2146,signed,generic,signed,False,False
+2164,json,generic,JSON,False,False
+2171,format,CWE-134|generic,format,True,False
+2208,script,CWE-79|CWE-94|generic,script,True,False
+2238,bug,generic|vuln,bug,True,False
+2267,path,CWE-22|generic,path,True,False
+2349,https,generic,HTTPS,False,False
+2424, block,generic|safety,block,True,False
+2435, url,CWE-601|CWE-918|generic,URL,True,False
+2530, protected,generic|safety,protected,True,False
+2610, valid,generic|safety,valid,True,False
+2766,Query,CWE-89|generic,query,True,False
+2771,Url,CWE-601|CWE-918|generic,URL,True,False
+2811,Http,generic,HTTP,False,False
+2827,null,CWE-476|generic,NULL|null,True,False
+2857, json,generic,JSON,False,False
+2901,entity,CWE-611|generic,entity,True,False
+2934,Entity,CWE-611|generic,entity,True,False
+3044,URL,CWE-601|CWE-918|generic,URL,True,False
+3108, command,CWE-78|generic,command,True,False
+3134, query,CWE-89|generic,query,True,False
+3174,Null,CWE-476|generic,NULL|null,True,False
+3250, attack,generic|vuln,attack,True,False
+3291,patch,generic|safety,patch,True,False
+3363,BUG,generic|vuln,bug,True,False
+3373,Integer,CWE-190|CWE-191|generic,integer,True,False
+3377, problem,generic|vuln,problem,True,False
+3427,sql,CWE-89|generic,SQL,False,False
+3435, password,CWE-798|generic,password,False,False
+3443, format,CWE-134|generic,format,True,False
+3455, Free,CWE-415|CWE-416|generic,free,True,False
+3547,login,generic,login,False,False
+3556,ERROR,generic|vuln,error,True,False
+3564, fail,generic|vuln,fail,True,False
+3577, https,generic,HTTPS,False,False
+3619, strong,generic|safety,strong,True,False
+3683, template,CWE-94|generic,template,True,False
+3705,password,CWE-798|generic,password,False,False
+3743, bad,generic|vuln,bad,True,False
+3744, Des,CWE-327|generic,DES,False,False
+3790, network,CWE-918|generic,network,True,False
+3840,Check,generic|safety,check,True,False
+3925,Format,CWE-134|generic,format,True,False
+3926,Command,CWE-78|generic,command,True,False
+3952,Valid,generic|safety,valid,True,False
+3959,Buffer,CWE-120|CWE-125|CWE-787|generic,buffer,False,False
+4011, buffer,CWE-120|CWE-125|CWE-787|generic,buffer,False,False
+4012, Dep,generic|safety,DEP,False,False
+4054, accept,generic,accept,True,False
+4075,template,CWE-94|generic,template,True,False
+4109, Check,generic|safety,check,True,False
+4252, correct,generic|safety,correct,True,False
+4294, Integer,CWE-190|CWE-191|generic,integer,True,False
+4371,strong,generic|safety,strong,True,False
+4425,block,generic|safety,block,True,False
+4427,NULL,CWE-476|generic,NULL|null,True,False
+4451, Error,generic|vuln,error,True,False
+4475, database,CWE-89|generic,database,False,False
+4490, failed,generic|vuln,failed,True,False
+4561,Block,generic|safety,block,True,False
+4566, JSON,generic,JSON,False,False
+4567, dom,generic,DOM,False,False
+4610, security,generic|safety,security,True,False
+4630,Resource,CWE-400|generic,resource,True,False
+4668, Http,generic,HTTP,False,False
+4720,Password,CWE-798|generic,password,False,False
+4737,Des,CWE-327|generic,DES,False,False
+4802, resources,CWE-400|generic,resources,True,False
+4808, wrong,generic|vuln,wrong,True,False
+4853,Json,generic,JSON,False,False
+4884, fix,generic|safety,fix,True,False
+4939, resource,CWE-400|generic,resource,True,False
+5048, risk,generic|vuln,risk,True,False
+5055, gets,generic,gets,False,False
+5104, html,CWE-79|generic,HTML,False,False
+5123,FAULT,generic|vuln,fault,True,False
+5148, script,CWE-79|CWE-94|generic,script,True,False
+5154, problems,generic|vuln,problems,True,False
+5190, prevent,generic|safety,prevent,True,False
+5202,JSON,generic,JSON,False,False
+5219, entity,CWE-611|generic,entity,True,False
+5252, allowed,generic,allowed,True,False
+5290,Enabled,generic,enabled,True,False
+5375, URL,CWE-601|CWE-918|generic,URL,True,False
+5383, damage,generic|vuln,damage,True,False
+5425,dom,generic,DOM,False,False
+5428, eval,CWE-94|generic,eval,True,False
+5438, undefined,generic|vuln,undefined,True,False
+5454,command,CWE-78|generic,command,True,False
+5471, avoid,generic|safety,avoid,True,False
+5515, argument,CWE-78|generic,argument,True,False
+5526, sql,CWE-89|generic,SQL,False,False
+5565,fix,generic|safety,fix,True,False
+5585,protected,generic|safety,protected,True,False
+5618,des,CWE-327|generic,DES,False,False
+5654,HTML,CWE-79|generic,HTML,False,False
+5677, login,generic,login,False,False
+5716, threat,generic|vuln,threat,True,False
+5726,Script,CWE-79|CWE-94|generic,script,True,False
+5787, errors,generic|vuln,errors,True,False
+5790, ensure,generic,ensure,True,False
+5800,Database,CWE-89|generic,database,False,False
+5827, protect,generic|safety,protect,True,False
+5902, safe,generic|safety,safe,True,False
+5954, allows,generic,allows,True,False
+6025, directory,CWE-22|generic,directory,True,False
+6035,Login,generic,login,False,False
+6038, secret,CWE-798|generic,secret,False,False
+6136, loop,CWE-400|generic,loop,True,False
+6148,AST,generic,AST,False,False
+6221, redirect,CWE-601|generic,redirect,True,False
+6253,xml,CWE-611|generic,XML,False,False
+6418,strict,generic|safety,strict,True,False
+6478,SQL,CWE-89|generic,SQL,False,False
+6613, nullptr,CWE-476|generic,nullptr,True,False
+6734, trust,generic,trust,False,False
+6847,validate,generic|safety,validate,True,False
+6925, safety,generic|safety,safety,True,False
+6942, zero,CWE-369|generic,zero,True,False
+6957,allow,generic,allow,True,False
+6973, limited,generic|safety,limited,True,False
+6998, Sql,CWE-89|generic,SQL,False,False
+7048,Template,CWE-94|generic,template,True,False
+7056, enable,generic,enable,True,False
+7077, strict,generic|safety,strict,True,False
+7117, Command,CWE-78|generic,command,True,False
+7167, missing,generic|vuln,missing,True,False
+7210, pointer,CWE-416|CWE-476|generic,pointer,True,False
+7234, weak,generic|vuln,weak,True,False
+7308, integer,CWE-190|CWE-191|generic,integer,True,False
+7310,checked,generic|safety,checked,True,False
+7333,buffer,CWE-120|CWE-125|CWE-787|generic,buffer,False,False
+7349, Initialized,CWE-457|generic,initialized,False,False
+7374, guard,generic|safety,guard,True,False
+7407,errors,generic|vuln,errors,True,False
+7441, Good,generic|safety,good,True,False
+7463, compared,generic|safety,compared,True,False
+7571, Valid,generic|safety,valid,True,False
+7591,Dep,generic|safety,DEP,False,False
+7602, reject,generic|safety,reject,True,False
+7622, SQL,CWE-89|generic,SQL,False,False
+7634, permission,generic,permission,False,False
+7652, failure,generic|vuln,failure,True,False
+7678,Invalid,generic|vuln,invalid,True,False
+7683, Path,CWE-22|generic,path,True,False
+7727, danger,generic|vuln,danger,True,False
+7861,redirect,CWE-601|generic,redirect,True,False
+7884, Network,CWE-918|generic,network,True,False
+7977, Security,generic|safety,security,True,False
+8011,Sql,CWE-89|generic,SQL,False,False
+8050, Json,generic,JSON,False,False
+8060, invalid,generic|vuln,invalid,True,False
+8097, fixed,generic|safety,fixed,True,False
+8103, Block,generic|safety,block,True,False
+8127, disabled,generic|vuln,disabled,True,False
+8136, xml,CWE-611|generic,XML,False,False
+8239, signed,generic,signed,False,False
+8279, permissions,generic,permissions,False,False
+8336, Secret,CWE-798|generic,secret,False,False
+8485, dos,CWE-400|generic,DoS,False,False
+8511, attacks,generic|vuln,attacks,True,False
+8514, Login,generic,login,False,False
+8543, warn,generic|vuln,warn,True,False
+8623, restrict,generic|safety,restrict,True,False
+8689,break,generic|vuln,break,True,False
+8699, enabled,generic,enabled,True,False
+8736, Initialize,CWE-457|generic,initialize,False,False
+8751, critical,generic|vuln,critical,True,False
+8782, defense,generic|safety,defense,True,False
+8811,Pointer,CWE-416|CWE-476|generic,pointer,True,False
+8833, destination,CWE-918|generic,destination,True,False
+8862, protection,generic|safety,protection,True,False
+8898,Argument,CWE-78|generic,argument,True,False
+8957,HTTP,generic,HTTP,False,False
+8960,resource,CWE-400|generic,resource,True,False
+9032, HTML,CWE-79|generic,HTML,False,False
+9034,Directory,CWE-22|generic,directory,True,False
+9129,Failed,generic|vuln,failed,True,False
+9150, compare,generic|safety,compare,True,False
+9189, initialize,CWE-457|generic,initialize,False,False
+9201, limitations,generic|safety,limitations,True,False
+9307, validate,generic|safety,validate,True,False
+9327,undefined,generic|vuln,undefined,True,False
+9475, secure,generic|safety,secure,True,False
+9584, bug,generic|vuln,bug,True,False
+9626, crash,generic|vuln,crash,True,False
+9634,Initialize,CWE-457|generic,initialize,False,False
+9663, warning,generic|vuln,warning,True,False
+9698, Database,CWE-89|generic,database,False,False
+9714, blocks,generic|safety,blocks,True,False
+9738, ignore,generic|vuln,ignore,True,False
+9747,VALID,generic|safety,valid,True,False
+9748,.sql,CWE-89|generic,.SQL,False,False
+9770, checked,generic|safety,checked,True,False
+9830, HTTP,generic,HTTP,False,False
+9845, verify,generic|safety,verify,True,False
+9971, properly,generic,properly,False,False
+10004, Gets,generic,gets,False,False
+10006, Buffer,CWE-120|CWE-125|CWE-787|generic,buffer,False,False
+10024,accept,generic,accept,True,False
+10080, Entity,CWE-611|generic,entity,True,False
+10185,loop,CWE-400|generic,loop,True,False
+10192, defend,generic|safety,defend,True,False
+10206, validation,generic|safety,validation,True,False
+10279,free,CWE-415|CWE-416|generic,free,True,False
+10282,ctr,CWE-327|generic,CTR,False,False
+10294,XML,CWE-611|generic,XML,False,False
+10377, allowing,generic,allowing,True,False
+10548, broken,generic|vuln,broken,True,False
+10582, patch,generic|safety,patch,True,False
+10621,Free,CWE-415|CWE-416|generic,free,True,False
+10761,Enable,generic,enable,True,False
+10817, detect,generic,detect,True,False
+10832, disable,generic,disable,True,False
+10950,Resources,CWE-400|generic,resources,True,False
+10966, commands,CWE-78|generic,commands,True,False
+11033, Query,CWE-89|generic,query,True,False
+11066,Bounds,CWE-120|CWE-125|CWE-787|generic,bounds,False,False
+11078, dangerous,generic|vuln,dangerous,True,False
+11100, harm,generic|vuln,harm,True,False
+11132, Bad,generic|vuln,bad,True,False
+11151, abuse,generic|vuln,abuse,True,False
+11260,Xml,CWE-611|generic,XML,False,False
+11326,integer,CWE-190|CWE-191|generic,integer,True,False
+11330, accepted,generic,accepted,True,False
+11426, ast,generic,AST,False,False
+11428, Resource,CWE-400|generic,resource,True,False
+11469,invalid,generic|vuln,invalid,True,False
+11473, sprintf,generic,sprintf,False,False
+11477, illegal,generic|vuln,illegal,True,False
+11535, XML,CWE-611|generic,XML,False,False
+11637,disabled,generic|vuln,disabled,True,False
+11693, ignored,generic|vuln,ignored,True,False
+11743,Warning,generic|vuln,warning,True,False
+11868,database,CWE-89|generic,database,False,False
+11912, Guard,generic|safety,guard,True,False
+11932,validation,generic|safety,validation,True,False
+11960, comparison,generic|safety,comparison,True,False
+11967,Network,CWE-918|generic,network,True,False
+11988, checks,generic|safety,checks,True,False
+11992, privacy,generic,privacy,True,False
+12009, Password,CWE-798|generic,password,False,False
+12062, fake,generic|vuln,fake,True,False
+12083, correctly,generic|safety,correctly,True,False
+12089,verify,generic|safety,verify,True,False
+12092, escape,generic|vuln,escape,True,False
+12139,Ignore,generic|vuln,ignore,True,False
+12168, shell,CWE-78|generic,shell,True,False
+12184, cookie,generic,cookie,False,False
+12192,enable,generic,enable,True,False
+12303,Checked,generic|safety,checked,True,False
+12367, DES,CWE-327|generic,DES,False,False
+12368, repair,generic|safety,repair,True,False
+12380,resources,CWE-400|generic,resources,True,False
+12436, division,CWE-369|generic,division,True,False
+12505, ERROR,generic|vuln,error,True,False
+12544, JavaScript,CWE-79|generic,JavaScript,False,False
+12626,escape,generic|vuln,escape,True,False
+12725, LIMITED,generic|safety,limited,True,False
+12749,ignore,generic|vuln,ignore,True,False
+12766,(sql,CWE-89|generic,(SQL,False,False
+12768,weak,generic|vuln,weak,True,False
+12910, checking,generic|safety,checking,True,False
+12939, enforcement,generic|safety,enforcement,True,False
+13129,Fixed,generic|safety,fixed,True,False
+13130, vulner,generic|vuln,Vulner,True,False
+13198,Html,CWE-79|generic,HTML,False,False
+13200,PATH,CWE-22|generic,path,True,False
+13251, CHECK,generic|safety,check,True,False
+13316, Script,CWE-79|CWE-94|generic,script,True,False
+13344,Inject,generic|vuln,inject,True,False
+13403,Validation,generic|safety,validation,True,False
+13422, Argument,CWE-78|generic,argument,True,False
+13458,bad,generic|vuln,bad,True,False
+13478,Errors,generic|vuln,errors,True,False
+13483, Invalid,generic|vuln,invalid,True,False
+13670,javascript,CWE-79|generic,JavaScript,False,False
+13749,zero,CWE-369|generic,zero,True,False
+13764,eval,CWE-94|generic,eval,True,False
+13848,Validator,generic|safety,validator,True,False
+13854, bounds,CWE-120|CWE-125|CWE-787|generic,bounds,False,False
+13926, exposure,generic|vuln,exposure,True,False
+13943, Template,CWE-94|generic,template,True,False
+14064,argument,CWE-78|generic,argument,True,False
+14074, Division,CWE-369|generic,division,True,False
+14107, fails,generic|vuln,fails,True,False
+14109, fault,generic|vuln,fault,True,False
+14199,Loop,CWE-400|generic,loop,True,False
+14293, breaking,generic|vuln,breaking,True,False
+14294, reliable,generic|safety,reliable,True,False
+14390, denied,generic,denied,False,False
+14460,dep,generic|safety,DEP,False,False
+14469, exposed,generic|vuln,exposed,True,False
+14532,Permission,generic,permission,False,False
+14602, Illegal,generic|vuln,illegal,True,False
+14606, Format,CWE-134|generic,format,True,False
+14673, incorrect,generic|vuln,incorrect,True,False
+14765, suspect,generic|vuln,suspect,True,False
+14773,Good,generic|safety,good,True,False
+14798,DOM,generic,DOM,False,False
+14832, risks,generic|vuln,risks,True,False
+14834, ownership,CWE-401|CWE-415|CWE-416|generic,ownership,True,False
+14906,Security,generic|safety,security,True,False
+14938, severe,generic|vuln,severe,True,False
+14988, guarantee,generic,guarantee,True,False
+15094, inject,generic|vuln,inject,True,False
+15164, Break,generic|vuln,break,True,False
+15286, certificate,CWE-295|generic,certificate,False,False
+15401,enabled,generic,enabled,True,False
+15467,logout,generic,logout,False,False
+15544, defensive,generic|safety,defensive,True,False
+15547,archive,CWE-22|generic,archive,True,False
+15557, Redirect,CWE-601|generic,redirect,True,False
+15571,pointer,CWE-416|CWE-476|generic,pointer,True,False
+15618,failed,generic|vuln,failed,True,False
+15638,validator,generic|safety,validator,True,False
+15649, fraud,generic|vuln,fraud,True,False
+15732, Resources,CWE-400|generic,resources,True,False
+15739, sensitive,generic,sensitive,False,False
+15758,cookie,generic,cookie,False,False
+15778, FREE,CWE-415|CWE-416|generic,free,True,False
+15892, Defense,generic|safety,defense,True,False
+15906, credentials,CWE-798|generic,credentials,False,False
+15977, evaluation,CWE-94|generic,evaluation,True,False
+16000, overflow,CWE-190|generic|vuln,overflow,True,False
+16015, unexpected,generic|vuln,unexpected,True,False
+16016, DAMAGES,generic|vuln,damages,True,False
+16022, detected,generic,detected,True,False
+16126, integrity,generic,integrity,False,False
+16156,Accept,generic,accept,True,False
+16163, authentication,generic,authentication,False,False
+16324, Trust,generic,trust,False,False
+16376, restrictions,generic|safety,restrictions,True,False
+16539,security,generic|safety,security,True,False
+16579,Bad,generic|vuln,bad,True,False
+16583, hack,generic|vuln,hack,True,False
+16761, initialized,CWE-457|generic,initialized,False,False
+16947, initialization,CWE-457|generic,initialization,False,False
+16987,Failure,generic|vuln,failure,True,False
+16991,network,CWE-918|generic,network,True,False
+17030, rejected,generic|safety,rejected,True,False
+17197,Redirect,CWE-601|generic,redirect,True,False
+17208, threats,generic|vuln,threats,True,False
+17390,Validate,generic|safety,validate,True,False
+17448, detection,generic,detection,False,False
+17459,destination,CWE-918|generic,destination,True,False
+17461,Zero,CWE-369|generic,zero,True,False
+17476,disable,generic,disable,True,False
+17494, Directory,CWE-22|generic,directory,True,False
+17509, availability,generic,availability,False,False
+17512, DOM,generic,DOM,False,False
+17524,_sql,CWE-89|generic,_SQL,False,False
+17545, Null,CWE-476|generic,NULL|null,True,False
+17585,Authorization,generic,authorization,False,False
+17593, archive,CWE-22|generic,archive,True,False
+17596, Permission,generic,permission,False,False
+17693,limited,generic|safety,limited,True,False
+17761, Zero,CWE-369|generic,zero,True,False
+17803, attacked,generic|vuln,attacked,True,False
+17854,fail,generic|vuln,fail,True,False
+17981,good,generic|safety,good,True,False
+18008, Enable,generic,enable,True,False
+18023, fatal,generic|vuln,fatal,True,False
+18044,Allow,generic,allow,True,False
+18069, authorized,generic|safety,authorized,True,False
+18112,safe,generic|safety,safe,True,False
+18120, warned,generic|vuln,warned,True,False
+18128,gets,generic,gets,False,False
+18139, Safety,generic|safety,safety,True,False
+18188, collision,CWE-327|generic,collision,False,False
+18304, Privacy,generic,privacy,True,False
+18335, Limited,generic|safety,limited,True,False
+18357,warning,generic|vuln,warning,True,False
+18376,compare,generic|safety,compare,True,False
+18381, Validation,generic|safety,validation,True,False
+18420, warnings,generic|vuln,warnings,True,False
+18455, crypto,generic,crypto,True,False
+18458, lifetime,CWE-401|CWE-416|generic,lifetime,True,False
+18510,authorized,generic|safety,authorized,True,False
+18591, Protection,generic|safety,protection,True,False
+18620, Html,CWE-79|generic,HTML,False,False
+18621, Xml,CWE-611|generic,XML,False,False
+18714,Authentication,generic,authentication,False,False
+18716, blocked,generic|safety,blocked,True,False
+18739, guaranteed,generic,guaranteed,True,False
+18865, restriction,generic|safety,restriction,True,False
+18930,Fail,generic|vuln,fail,True,False
+18959, queries,CWE-89|generic,queries,True,False
+18966, vulnerable,generic|vuln,vulnerable,True,False
+19114, Fix,generic|safety,fix,True,False
+19170,Secret,CWE-798|generic,secret,False,False
+19193, memcpy,CWE-120|CWE-400|CWE-787|generic|vuln,memcpy,False,False
+19207, sanit,generic|safety,sanit,True,False
+19255, unsafe,generic|vuln,unsafe,True,False
+19321,correct,generic|safety,correct,True,False
+19333, violation,generic|vuln,violation,True,False
+19468, enables,generic,enables,True,False
+19500, Ast,generic,AST,False,False
+19510, damaged,generic|vuln,damaged,True,False
+19527,Warnings,generic|vuln,warnings,True,False
+19536, Fixed,generic|safety,fixed,True,False
+19538, FIX,generic|safety,fix,True,False
+19662, limitation,generic|safety,limitation,True,False
+19849,secret,CWE-798|generic,secret,False,False
+19851, poison,generic|vuln,poison,True,False
+19941,attack,generic|vuln,attack,True,False
+19991,Cookie,generic,cookie,False,False
+20120, Dom,generic,DOM,False,False
+20132, Damage,generic|vuln,damage,True,False
+20156, Attack,generic|vuln,attack,True,False
+20172,Guard,generic|safety,guard,True,False
+20189,overflow,CWE-190|generic|vuln,overflow,True,False
+20195, Accept,generic,accept,True,False
+20245, digest,generic,digest,False,False
+20327,allowed,generic,allowed,True,False
+20359, safely,generic|safety,safely,True,False
+20380, threatened,generic|vuln,threatened,True,False
+20392,verified,generic|safety,verified,True,False
+20600, corruption,generic|vuln,corruption,True,False
+20635, cleanup,CWE-401|generic,cleanup,False,False
+20703, Loop,CWE-400|generic,loop,True,False
+20723, Failed,generic|vuln,failed,True,False
+20728,shell,CWE-78|generic,shell,True,False
+20738, failing,generic|vuln,failing,True,False
+20972, Pointer,CWE-416|CWE-476|generic,pointer,True,False
+20978,initialize,CWE-457|generic,initialize,False,False
+21051, GOOD,generic|safety,good,True,False
+21068, restricted,generic|safety,restricted,True,False
+21094, robust,generic|safety,robust,True,False
+21171, Inject,generic|vuln,inject,True,False
+21241, corrupt,generic|vuln,corrupt,True,False
+21252,blocks,generic|safety,blocks,True,False
+21325, sqlite,CWE-89|generic,SQLite,True,False
+21343,fixed,generic|safety,fixed,True,False
+21397, Problem,generic|vuln,problem,True,False
+21496, protecting,generic|safety,protecting,True,False
+21498, pickle,CWE-502|generic,pickle,True,False
+21500, blocking,generic|safety,blocking,True,False
+21531, defect,generic|vuln,defect,True,False
+21600, Safe,generic|safety,safe,True,False
+21610, capability,generic,capability,False,False
+21663, logout,generic,logout,False,False
+21766, AST,generic,AST,False,False
+21796,Initialized,CWE-457|generic,initialized,False,False
+21825,Break,generic|vuln,break,True,False
+21851, bugs,generic|vuln,bugs,True,False
+21873, ensuring,generic,ensuring,True,False
+21894,SSL,CWE-295|generic,SSL,False,False
+21915,permission,generic,permission,False,False
+22038, legitimate,generic|safety,legitimate,True,False
+22102,Dom,generic,DOM,False,False
+22108, attacking,generic|vuln,attacking,True,False
+22124, defence,generic|safety,defence,True,False
+22129, Url,CWE-601|CWE-918|generic,URL,True,False
+22188, verification,generic|safety,verification,True,False
+22222, validator,generic|safety,validator,True,False
+22288,.Sql,CWE-89|generic,.SQL,False,False
+22319,directory,CWE-22|generic,directory,True,False
+22354, strcpy,CWE-120|CWE-400|CWE-787|generic|vuln,strcpy,False,False
+22360, weakness,generic|vuln,weakness,True,False
+22380, deny,generic,deny,False,False
+22558, Validate,generic|safety,validate,True,False
+22599,ascii,generic,ASCII,False,False
+22627, leak,generic|vuln,leak,True,False
+22802, Authentication,generic,authentication,False,False
+22857, secrets,CWE-798|generic,secrets,False,False
+22973, authorization,generic,authorization,False,False
+23014, allocation,CWE-401|CWE-415|CWE-416|generic,allocation,True,False
+23024, Compare,generic|safety,compare,True,False
+23059, suspected,generic|vuln,suspected,True,False
+23064, infinite,generic|vuln,infinite,True,False
+23105,Permissions,generic,permissions,False,False
+23185, verified,generic|safety,verified,True,False
+23347,csrf,generic,CSRF,False,False
+23357,forge,generic|vuln,forge,True,False
+23500,Damage,generic|vuln,damage,True,False
+23508,commands,CWE-78|generic,commands,True,False
+23588, Cookie,generic,cookie,False,False
+23621, SQLException,CWE-89|generic|vuln,SQLException,False,False
+23680, encrypted,generic,encrypted,True,False
+23813, jwt,generic,JWT,False,False
+23859,ssl,CWE-295|generic,SSL,False,False
+23882, Validators,generic|safety,validators,True,False
+23890, accepting,generic,accepting,True,False
+24004,SCRIPT,CWE-79|CWE-94|generic,script,True,False
+24056, Checks,generic|safety,checks,True,False
+24144,SQLException,CWE-89|generic|vuln,SQLException,False,False
+24277, injection,generic|vuln,injection,True,False
+24285,Missing,generic|vuln,missing,True,False
+24299,.SQL,CWE-89|generic,.SQL,False,False
+24333, damages,generic|vuln,damages,True,False
+24336,secure,generic|safety,secure,True,False
+24485,Shell,CWE-78|generic,shell,True,False
+24512, SSL,CWE-295|generic,SSL,False,False
+24546, ensures,generic,ensures,True,False
+24624, Verify,generic|safety,verify,True,False
+24656, encryption,CWE-327|generic,encryption,False,False
+24660, strictly,generic|safety,strictly,True,False
+24669,Disable,generic,disable,True,False
+24693, acceptance,generic,acceptance,False,False
+24738, privilege,generic,privilege,False,False
+24845,Safe,generic|safety,safe,True,False
+24882, flaw,generic|vuln,flaw,True,False
+25079,Disabled,generic|vuln,disabled,True,False
+25128,Fix,generic|safety,fix,True,False
+25264,guard,generic|safety,guard,True,False
+25265, Strong,generic|safety,strong,True,False
+25325, preventing,generic|safety,preventing,True,False
+25343, guards,generic|safety,guards,True,False
+25357, confidential,generic,confidential,True,False
+25411, prevention,generic|safety,prevention,True,False
+25419, validates,generic|safety,validates,True,False
+25423, correction,generic|safety,correction,True,False
+25456, comparing,generic|safety,comparing,True,False
+25503, accepts,generic,accepts,True,False
+25585, secured,generic|safety,secured,True,False
+25632, WARNING,generic|vuln,warning,True,False
+25682, Allow,generic,allow,True,False
+25689, fixes,generic|safety,fixes,True,False
+25709, violations,generic|vuln,violations,True,False
+25859,Authenticated,generic|safety,authenticated,True,False
+25910, unlimited,generic|vuln,unlimited,True,False
+25918, PATH,CWE-22|generic,path,True,False
+25948, threatening,generic|vuln,threatening,True,False
+25997, Warning,generic|vuln,warning,True,False
+26158,Credentials,CWE-798|generic,credentials,False,False
+26293, Repair,generic|safety,repair,True,False
+26407,ensure,generic,ensure,True,False
+26477, enabling,generic,enabling,True,False
+26487,Compare,generic|safety,compare,True,False
+26502, buffers,CWE-120|CWE-125|CWE-787|generic,buffers,False,False
+26703, DNS,generic,DNS,False,False
+26857, harmful,generic|vuln,harmful,True,False
+26880, escaped,generic|safety,escaped,True,False
+26903,hostname,CWE-918|generic,hostname,True,False
+26926, caution,generic|safety,caution,True,False
+26946, failures,generic|vuln,failures,True,False
+26953, disclosure,generic|vuln,disclosure,True,False
+26993,restrict,generic|safety,restrict,True,False
+27028, prevents,generic|safety,prevents,True,False
+27052,Logout,generic,logout,False,False
+27121, Disable,generic,disable,True,False
+27203, hostname,CWE-918|generic,hostname,True,False
+27206, protective,generic|safety,protective,True,False
+27228, expose,generic|vuln,expose,True,False
+27247, enforce,generic|safety,enforce,True,False
+27254, defending,generic|safety,defending,True,False
+27288, DAMAGE,generic|vuln,damage,True,False
+27413, SQLite,CWE-89|generic,SQLite,True,False
+27668,Attack,generic|vuln,attack,True,False
+27724, patches,generic|safety,patches,True,False
+27738, BLOCK,generic|safety,block,True,False
+27815,idor,generic,IDOR,False,False
+27822,division,CWE-369|generic,division,True,False
+27997,failure,generic|vuln,failure,True,False
+28063, STRICT,generic|safety,strict,True,False
+28092, comparable,generic,comparable,False,False
+28230,Wrong,generic|vuln,wrong,True,False
+28320, Ensure,generic,ensure,True,False
+28425, compromise,generic|vuln,compromise,True,False
+28442, Shell,CWE-78|generic,shell,True,False
+28470,Unexpected,generic|vuln,unexpected,True,False
+28488, safer,generic|safety,safer,True,False
+28514,JavaScript,CWE-79|generic,JavaScript,False,False
+28658, encrypt,generic,encrypt,True,False
+28684, Enabled,generic,enabled,True,False
+28732, Archive,CWE-22|generic,archive,True,False
+28790, suspects,generic|vuln,suspects,True,False
+28830,Blocks,generic|safety,blocks,True,False
+28923,permissions,generic,permissions,False,False
+28943, severity,generic,severity,False,False
+29006, breakdown,generic|vuln,breakdown,True,False
+29201, repairs,generic|safety,repairs,True,False
+29309, hazard,generic|vuln,hazard,True,False
+29310, isolation,generic,isolation,False,False
+29382, breach,generic|vuln,breach,True,False
+29392, INTEGER,CWE-190|CWE-191|generic,integer,True,False
+29422, Patch,generic|safety,patch,True,False
+29436, avoiding,generic|safety,avoiding,True,False
+29485,Commands,CWE-78|generic,commands,True,False
+29505, Bug,generic|vuln,bug,True,False
+29541, reliability,generic|safety,reliability,True,False
+29563, Authorization,generic,authorization,False,False
+29571,fake,generic|vuln,fake,True,False
+29572,Undefined,generic|vuln,undefined,True,False
+29617,missing,generic|vuln,missing,True,False
+29707, attacker,generic|vuln,attacker,True,False
+29715, bypass,generic|vuln,bypass,True,False
+29784, avoided,generic|safety,avoided,True,False
+29890, ignoring,generic|vuln,ignoring,True,False
+29980, prevented,generic|safety,prevented,True,False
+30070, cipher,CWE-327|generic,cipher,False,False
+30145,PATCH,generic|safety,patch,True,False
+30154,ENTITY,CWE-611|generic,entity,True,False
+30177,Problem,generic|vuln,problem,True,False
+30192, detector,generic,detector,False,False
+30260, Risk,generic|vuln,risk,True,False
+30273, dysfunction,generic|vuln,dysfunction,True,False
+30296, suspicious,generic|vuln,suspicious,True,False
+30370, Certificate,CWE-295|generic,certificate,False,False
+30416,danger,generic|vuln,danger,True,False
+30551, deprecated,generic|vuln,deprecated,True,False
+30567,Detector,generic,detector,False,False
+30645,unchecked,generic|vuln,unchecked,True,False
+30706,Validators,generic|safety,validators,True,False
+30794, validity,generic|safety,validity,True,False
+30806, Javascript,CWE-79|generic,JavaScript,False,False
+30836, Initializes,CWE-457|generic,initializes,False,False
+31074,inject,generic|vuln,inject,True,False
+31084, incomplete,generic|vuln,incomplete,True,False
+31133, exploit,generic|vuln,exploit,True,False
+31153, overwrite,generic|vuln,overwrite,False,False
+31183, yaml,generic,YAML,False,False
+31196, Failure,generic|vuln,failure,True,False
+31205, INVALID,generic|vuln,invalid,True,False
+31215,Collision,CWE-327|generic,collision,False,False
+31265, validated,generic|safety,validated,True,False
+31285,credentials,CWE-798|generic,credentials,False,False
+31385, weaken,generic|vuln,weaken,True,False
+31456, checksum,generic,checksum,True,False
+31486,Nonnull,CWE-476|generic|safety,nonnull,False,False
+31491, Validator,generic|safety,validator,True,False
+31547,Verify,generic|safety,verify,True,False
+31619,WARNING,generic|vuln,warning,True,False
+31738,encrypt,generic,encrypt,True,False
+31794, Crypto,generic,crypto,True,False
+31802, limiting,generic|safety,limiting,True,False
+31911, vulnerability,generic|vuln,vulnerability,False,False
+31995,Correct,generic|safety,correct,True,False
+32009, FAIL,generic|vuln,fail,True,False
+32087, authenticate,generic,authenticate,False,False
+32099,Certificate,CWE-295|generic,certificate,False,False
+32137, ENABLE,generic,enable,True,False
+32184, Detect,generic,detect,True,False
+32243, damaging,generic|vuln,damaging,True,False
+32314, violated,generic|vuln,violated,True,False
+32370,warn,generic|vuln,warn,True,False
+32376,Comparison,generic|safety,comparison,True,False
+32408, bcrypt,CWE-327|generic,bcrypt,False,False
+32425, ssl,CWE-295|generic,SSL,False,False
+32493,Destination,CWE-918|generic,destination,True,False
+32549, Protect,generic|safety,protect,True,False
+32596,Illegal,generic|vuln,illegal,True,False
+32599, passwords,CWE-798|generic,passwords,False,False
+32635, crashed,generic|vuln,crashed,True,False
+32728, leaked,generic|vuln,leaked,True,False
+32792, denial,generic,denial,False,False
+32879, Avoid,generic|safety,avoid,True,False
+32892,bounds,CWE-120|CWE-125|CWE-787|generic,bounds,False,False
+33222,oauth,generic,OAuth,False,False
+33293, certificates,CWE-295|generic,certificates,False,False
+33344,tls,CWE-295|generic,TLS,False,False
+33357, Secure,generic|safety,secure,True,False
+33371,CHECK,generic|safety,check,True,False
+33441,problem,generic|vuln,problem,True,False
+33513, Critical,generic|vuln,critical,True,False
+33595, defended,generic|safety,defended,True,False
+33633, arithmetic,CWE-190|CWE-191|CWE-369|generic,arithmetic,True,False
+33654, severely,generic|vuln,severely,True,False
+33713,wrong,generic|vuln,wrong,True,False
+33776, problematic,generic,problematic,False,False
+33825, Hack,generic|vuln,hack,True,False
+33832, mitig,generic|safety,mitig,True,False
+33886,IGNORE,generic|vuln,ignore,True,False
+33926, GraphQL,generic,GraphQL,False,False
+33972, protects,generic|safety,protects,True,False
+34073, deserialize,CWE-502|generic,deserialize,False,False
+34082, fixing,generic|safety,fixing,True,False
+34094, Missing,generic|vuln,missing,True,False
+34211,Allowed,generic,allowed,True,False
+34218, disclosed,generic|vuln,disclosed,True,False
+34322, comparisons,generic|safety,comparisons,True,False
+34348, csrf,generic,CSRF,False,False
+34389, abused,generic|vuln,abused,True,False
+34475, guarantees,generic,guarantees,True,False
+34529, javascript,CWE-79|generic,JavaScript,False,False
+34547, privileges,generic,privileges,False,False
+34587,crypto,generic,crypto,True,False
+34659, Prevention,generic|safety,prevention,True,False
+34675,Serialization,CWE-502|generic,serialization,True,False
+34772, dangers,generic|vuln,dangers,True,False
+34773, corrected,generic|safety,corrected,True,False
+34942, crashes,generic|vuln,crashes,True,False
+34966,initialized,CWE-457|generic,initialized,False,False
+35007, intentionally,generic,intentionally,False,False
+35021,Buffers,CWE-120|CWE-125|CWE-787|generic,buffers,False,False
+35123, protections,generic|safety,protections,True,False
+35138,digest,generic,digest,False,False
+35240,encrypted,generic,encrypted,True,False
+35358, formatting,CWE-134|generic,formatting,True,False
+35440,Injection,generic|vuln,injection,True,False
+35444,breaking,generic|vuln,breaking,True,False
+35479, leaks,generic|vuln,leaks,True,False
+35605, authorize,generic,authorize,False,False
+35678, rejection,generic|safety,rejection,True,False
+35693,FAILED,generic|vuln,failed,True,False
+35712, endanger,generic|vuln,endanger,True,False
+35740, Fake,generic|vuln,fake,True,False
+35748,FAIL,generic|vuln,fail,True,False
+35767, Protected,generic|safety,protected,True,False
+35811, suspicion,generic|vuln,suspicion,True,False
+35812,sqlite,CWE-89|generic,SQLite,True,False
+35910, Leak,generic|vuln,leak,True,False
+35978, misleading,generic|vuln,misleading,True,False
+36027, authenticated,generic|safety,authenticated,True,False
+36148, illegally,generic|vuln,illegally,True,False
+36241,Authorize,generic,authorize,False,False
+36667, exhausted,CWE-400|generic,exhausted,False,False
+36732,DES,CWE-327|generic,DES,False,False
+36810, Prevent,generic|safety,prevent,True,False
+36865, decrypt,generic,decrypt,True,False
+36877, hacking,generic|vuln,hacking,True,False
+36895,unsafe,generic|vuln,unsafe,True,False
+36908, malicious,generic|vuln,malicious,True,False
+36924,deprecated,generic|vuln,deprecated,True,False
+36976,Warn,generic|vuln,warn,True,False
+37025,graphql,generic,GraphQL,False,False
+37043, insufficient,generic|vuln,insufficient,True,False
+37046, OAuth,generic,OAuth,False,False
+37308, validators,generic|safety,validators,True,False
+37383,ldap,generic,LDAP,False,False
+37387,(SQL,CWE-89|generic,(SQL,False,False
+37555, AES,CWE-327|generic,AES,False,False
+37619, Defence,generic|safety,defence,True,False
+37681, Ignore,generic|vuln,ignore,True,False
+37844, inconsistent,generic|vuln,inconsistent,True,False
+37934, sanitized,generic|safety,sanitized,True,False
+37958, Errors,generic|vuln,errors,True,False
+37969, Initialization,CWE-457|generic,initialization,False,False
+37989, Evaluation,CWE-94|generic,evaluation,True,False
+37999, interpreter,CWE-94|generic,interpreter,True,False
+38016, ASCII,generic,ASCII,False,False
+38136, omitted,generic|vuln,omitted,True,False
+38243, destructive,generic|vuln,destructive,True,False
+38245,authorization,generic,authorization,False,False
+38281,nonce,CWE-327|generic,nonce,False,False
+38333, Fail,generic|vuln,fail,True,False
+38349, exploitation,generic|vuln,exploitation,True,False
+38363, nonce,CWE-327|generic,nonce,False,False
+38375,FIX,generic|safety,fix,True,False
+38415, malware,generic,malware,False,False
+38619, invalidate,generic,invalidate,False,False
+38637,BLOCK,generic|safety,block,True,False
+38643, Correct,generic|safety,correct,True,False
+38657, improper,generic|vuln,improper,True,False
+38742,Expose,generic|vuln,expose,True,False
+38797,Checking,generic|safety,checking,True,False
+38841, risky,generic|vuln,risky,True,False
+38875, credential,CWE-798|generic,credential,False,False
+38886, COMMAND,CWE-78|generic,command,True,False
+39003, critically,generic|vuln,critically,True,False
+39030, hackers,generic|vuln,hackers,True,False
+39128, denying,generic,denying,False,False
+39130,Incorrect,generic|vuln,incorrect,True,False
+39139, securing,generic|safety,securing,True,False
+39149, violate,generic|vuln,violate,True,False
+39187,dos,CWE-400|generic,DoS,False,False
+39328, injected,generic|vuln,injected,True,False
+39410, Wrong,generic|vuln,wrong,True,False
+39413, flaws,generic|vuln,flaws,True,False
+39612, attackers,generic|vuln,attackers,True,False
+39665,QUERY,CWE-89|generic,query,True,False
+39774,nullptr,CWE-476|generic,nullptr,True,False
+39805, Weak,generic|vuln,weak,True,False
+40093,yaml,generic,YAML,False,False
+40099,BUFFER,CWE-120|CWE-125|CWE-787|generic,buffer,False,False
+40167,critical,generic|vuln,critical,True,False
+40181, defects,generic|vuln,defects,True,False
+40191, COOKIE,generic,cookie,False,False
+40217,jwt,generic,JWT,False,False
+40278, TLS,CWE-295|generic,TLS,False,False
+40350, Destination,CWE-918|generic,destination,True,False
+40476,Strict,generic|safety,strict,True,False
+40621,Critical,generic|vuln,critical,True,False
+40629,DTD,CWE-611|generic,DTD,False,False
+40636, Leakage,generic|vuln,leakage,True,False
+40668, PreparedStatement,CWE-89|generic,PreparedStatement,False,False
+40730,Overflow,CWE-190|generic|vuln,overflow,True,False
+41040, Comparison,generic|safety,comparison,True,False
+41054, compares,generic|safety,compares,True,False
+41067,escaping,generic|safety,escaping,True,False
+41089,Archive,CWE-22|generic,archive,True,False
+41144, abusive,generic|vuln,abusive,True,False
+41339, sandbox,generic,sandbox,False,False
+41419,queries,CWE-89|generic,queries,True,False
+41441, DATABASE,CWE-89|generic,database,False,False
+41447,damage,generic|vuln,damage,True,False
+41537, Enforcement,generic|safety,enforcement,True,False
+41565, unacceptable,generic|vuln,unacceptable,True,False
+41861, VALID,generic|safety,valid,True,False
+41915, incorrectly,generic|vuln,incorrectly,True,False
+41965, compromised,generic|vuln,compromised,True,False
+42024, ACL,generic,ACL,False,False
+42125, weaknesses,generic|vuln,weaknesses,True,False
+42177,Patch,generic|safety,patch,True,False
+42279,ENABLE,generic,enable,True,False
+42341,FREE,CWE-415|CWE-416|generic,free,True,False
+42459, cors,generic,CORS,False,False
+42617, dns,generic,DNS,False,False
+42849, enforced,generic|safety,enforced,True,False
+42889, violating,generic|vuln,violating,True,False
+42945, unlawful,generic|vuln,unlawful,True,False
+42994, unauthorized,generic|vuln,unauthorized,True,False
+43057, Problems,generic|vuln,problems,True,False
+43306,COOKIE,generic,cookie,False,False
+43645,Memcpy,CWE-120|CWE-400|CWE-787|generic|vuln,memcpy,False,False
+43675, sanitize,generic|safety,sanitize,True,False
+43703, containment,generic|safety,containment,False,False
+43709,Digest,generic,digest,False,False
+43717,dns,generic,DNS,False,False
+43890,PreparedStatement,CWE-89|generic,PreparedStatement,False,False
+43922,TLS,CWE-295|generic,TLS,False,False
+43957, crashing,generic|vuln,crashing,True,False
+43962, inadequate,generic|vuln,inadequate,True,False
+43995, CBC,CWE-327|generic,CBC,False,False
+43999, defenses,generic|safety,defenses,True,False
+44031,Trust,generic,trust,False,False
+44121, RSA,CWE-327|generic,RSA,False,False
+44123, Escape,generic|vuln,escape,True,False
+44157, Blocks,generic|safety,blocks,True,False
+44163, Abuse,generic|vuln,abuse,True,False
+44245, CVE,generic,cve,True,False
+44247, Allows,generic,allows,True,False
+44254, cautious,generic|safety,cautious,True,False
+44361,authentication,generic,authentication,False,False
+44431, exposing,generic|vuln,exposing,True,False
+44444,protect,generic|safety,protect,True,False
+44555, Checking,generic|safety,checking,True,False
+44641, susceptible,generic,susceptible,True,False
+44681,VERIFY,generic|safety,verify,True,False
+44743, Logout,generic,logout,False,False
+44869, oauth,generic,OAuth,False,False
+44938, denies,generic,denies,False,False
+44946,DATABASE,CWE-89|generic,database,False,False
+45003,FORMAT,CWE-134|generic,format,True,False
+45067,_SQL,CWE-89|generic,_SQL,False,False
+45209,Bug,generic|vuln,bug,True,False
+45256,privacy,generic,privacy,True,False
+45274, hacked,generic|vuln,hacked,True,False
+45294,INVALID,generic|vuln,invalid,True,False
+45299, intentional,generic,intentional,False,False
+45341, flawed,generic|vuln,flawed,True,False
+45345, denominator,CWE-369|generic,denominator,True,False
+45427,reject,generic|safety,reject,True,False
+45547, ascii,generic,ASCII,False,False
+45608, Commands,CWE-78|generic,commands,True,False
+45618, deficiency,generic|vuln,deficiency,True,False
+45723, Danger,generic|vuln,danger,True,False
+45863, serialization,CWE-502|generic,serialization,True,False
+45918, entropy,CWE-327|generic,entropy,False,False
+45982, JWT,generic,JWT,False,False
+46001,Strong,generic|safety,strong,True,False
+46129, BAD,generic|vuln,bad,True,False
+46146,acl,generic,ACL,False,False
+46231, threatens,generic|vuln,threatens,True,False
+46237,Privacy,generic,privacy,True,False
+46261,avoid,generic|safety,avoid,True,False
+46370, safeguard,generic|safety,safeguard,True,False
+46438, warns,generic|vuln,warns,True,False
+46517,Escape,generic|vuln,escape,True,False
+46524, LOGIN,generic,login,False,False
+46656,Credential,CWE-798|generic,credential,False,False
+46657,Blocking,generic|safety,blocking,True,False
+46668, ignores,generic|vuln,ignores,True,False
+46806,-command,CWE-78|generic,-command,True,False
+46827, Deserialize,CWE-502|generic,deserialize,False,False
+46889, Unlimited,generic|vuln,unlimited,True,False
+47096, normalization,generic,normalization,False,False
+47230, graphql,generic,GraphQL,False,False
+47272,broken,generic|vuln,broken,True,False
+47418, abuses,generic|vuln,abuses,True,False
+47461, divisor,CWE-369|generic,divisor,True,False
+47500,entropy,CWE-327|generic,entropy,False,False
+47654,Signed,generic,signed,False,False
+47697,Gets,generic,gets,False,False
+47699, mitigate,generic|safety,mitigate,True,False
+47722,checks,generic|safety,checks,True,False
+47739, corrupted,generic|vuln,corrupted,True,False
+47977,Weak,generic|vuln,weak,True,False
+47999, FAILED,generic|vuln,failed,True,False
+48051,Forgery,generic|vuln,forgery,True,False
+48054,sprintf,generic,sprintf,False,False
+48070, saturation,generic,saturation,False,False
+48138,Secure,generic|safety,secure,True,False
+48145,Checks,generic|safety,checks,True,False
+48199, firewall,generic|safety,firewall,False,False
+48244, hazardous,generic|vuln,hazardous,True,False
+48375,authenticate,generic,authenticate,False,False
+48465,xpath,generic,XPath,False,False
+48575, recursion,CWE-400|generic,recursion,True,False
+48624, violates,generic|vuln,violates,True,False
+48645, Crash,generic|vuln,crash,True,False
+48684, corrections,generic|safety,corrections,True,False
+48906, unexpectedly,generic|vuln,unexpectedly,True,False
+48929,verification,generic|safety,verification,True,False
+48935, ctr,CWE-327|generic,CTR,False,False
+48958, exploited,generic|vuln,exploited,True,False
+48966, PASSWORD,CWE-798|generic,password,False,False
+49088,restricted,generic|safety,restricted,True,False
+49149, CWE,generic,cwe,True,False
+49305, securely,generic|safety,securely,True,False
+49392, Poison,generic|vuln,poison,True,False
+49406, vulnerabilities,generic|vuln,vulnerabilities,False,False
+49415, poisoning,generic|vuln,poisoning,True,False
+49418, Severity,generic,severity,False,False
+49459,Unauthorized,generic|vuln,unauthorized,True,False
+49513,Division,CWE-369|generic,division,True,False
+49532, endangered,generic|vuln,endangered,True,False
+49617,Deprecated,generic|vuln,deprecated,True,False
+49787, Breaking,generic|vuln,breaking,True,False
+49805, hazards,generic|vuln,hazards,True,False
+49811, Collision,CWE-327|generic,collision,False,False
+49961,Availability,generic,availability,False,False
+49992, repaired,generic|safety,repaired,True,False
+50066, Availability,generic,availability,False,False
+50083, leaking,generic|vuln,leaking,True,False
+50274,authorize,generic,authorize,False,False
+50329, Secrets,CWE-798|generic,secrets,False,False
+50366,Avoid,generic|safety,avoid,True,False
+50384, BUFFER,CWE-120|CWE-125|CWE-787|generic,buffer,False,False
+50472, FORMAT,CWE-134|generic,format,True,False
+50561,Fake,generic|vuln,fake,True,False
+50577, Threat,generic|vuln,threat,True,False
+50626,Leaks,generic|vuln,leaks,True,False
+50688, Signed,generic,signed,False,False
+50749, Cors,generic,CORS,False,False
+50882, escaping,generic|safety,escaping,True,False
+50905,COMPARE,generic|safety,compare,True,False
+51103, Strict,generic|safety,strict,True,False
+51119, harmless,generic|safety,harmless,True,False
+51280,availability,generic,availability,False,False
+51296,LOGIN,generic,login,False,False
+51342, YAML,generic,YAML,False,False
+51404, unchecked,generic|vuln,unchecked,True,False
+51411, forged,generic|vuln,forged,True,False
+51499, Digest,generic,digest,False,False
+51535,ALLOW,generic,allow,True,False
+51566, Permissions,generic,permissions,False,False
+51716, Cleanup,CWE-401|generic,cleanup,False,False
+51730, detecting,generic,detecting,True,False
+51774,BAD,generic|vuln,bad,True,False
+51779, catastrophic,generic|vuln,catastrophic,True,False
+51785, Broken,generic|vuln,broken,True,False
+51878, SCRIPT,CWE-79|CWE-94|generic,script,True,False
+52005, Injection,generic|vuln,injection,True,False
+52053,unexpected,generic|vuln,unexpected,True,False
+52077, fraudulent,generic|vuln,fraudulent,True,False
+52160,cors,generic,CORS,False,False
+52307, hacker,generic|vuln,hacker,True,False
+52321, DIRECTORY,CWE-22|generic,directory,True,False
+52367, ineffective,generic|vuln,ineffective,True,False
+52436,RESOURCE,CWE-400|generic,resource,True,False
+52487, unspecified,generic,unspecified,False,False
+52545, Jwt,generic,JWT,False,False
+52642,Eval,CWE-94|generic,eval,True,False
+52653,Denied,generic,denied,False,False
+52711, Infinite,generic|vuln,infinite,True,False
+52726,Verified,generic|safety,verified,True,False
+52735,collision,CWE-327|generic,collision,False,False
+52742,accepted,generic,accepted,True,False
+52761, ZERO,CWE-369|generic,zero,True,False
+52865,comparison,generic|safety,comparison,True,False
+52973,Detection,generic,detection,False,False
+53007, avoids,generic|safety,avoids,True,False
+53060, ACCEPT,generic,accept,True,False
+53177, tls,CWE-295|generic,TLS,False,False
+53269,-safe,generic|safety,-safe,True,False
+53318,JWT,generic,JWT,False,False
+53379, indefinitely,CWE-400|generic|vuln,indefinitely,True,False
+53380,cleanup,CWE-401|generic,cleanup,False,False
+53397, SQLITE,CWE-89|generic,SQLite,True,False
+53406,Queries,CWE-89|generic,queries,True,False
+53533,ACL,generic,ACL,False,False
+53597, Encrypt,generic,encrypt,True,False
+53611, Verification,generic|safety,verification,True,False
+53993,allows,generic,allows,True,False
+54034, legitimacy,generic|safety,legitimacy,True,False
+54067, trustworthy,generic|safety,trustworthy,True,False
+54288,bugs,generic|vuln,bugs,True,False
+54409, traversal,CWE-22|generic,traversal,False,False
+54485, LDAP,generic,LDAP,False,False
+54488, reliably,generic|safety,reliably,True,False
+54556,ASCII,generic,ASCII,False,False
+54680, aes,CWE-327|generic,AES,False,False
+54733, forge,generic|vuln,forge,True,False
+54759,trust,generic,trust,False,False
+54775, DISABLE,generic,disable,True,False
+54794, faults,generic|vuln,faults,True,False
+55016, Dos,CWE-400|generic,DoS,False,False
+55089, restrictive,generic|safety,restrictive,True,False
+55150, initializing,CWE-457|generic,initializing,False,False
+55209, acl,generic,ACL,False,False
+55278,Detect,generic,detect,True,False
+55344, Forge,generic|vuln,forge,True,False
+55404, correctness,generic|safety,correctness,True,False
+55432, Detection,generic,detection,False,False
+55513, NETWORK,CWE-918|generic,network,True,False
+55639, faulty,generic|vuln,faulty,True,False
+55654, ransom,generic|vuln,ransom,True,False
+55687, invariant,generic,invariant,False,False
+55688, Allowed,generic,allowed,True,False
+55730, weakened,generic|vuln,weakened,True,False
+55773,authenticated,generic|safety,authenticated,True,False
+55782, disregard,generic|vuln,disregard,True,False
+55910,OAuth,generic,OAuth,False,False
+55914,checking,generic|safety,checking,True,False
+55917, initializes,CWE-457|generic,initializes,False,False
+56155, Comparable,generic,comparable,False,False
+56250, Disabled,generic|vuln,disabled,True,False
+56280, Eval,CWE-94|generic,eval,True,False
+56320, exposes,generic|vuln,exposes,True,False
+56327,Crypto,generic,crypto,True,False
+56455,Interpreter,CWE-94|generic,interpreter,True,False
+56466,Forge,generic|vuln,forge,True,False
+56497,ignored,generic|vuln,ignored,True,False
+56506, DOS,CWE-400|generic,DoS,False,False
+56519, dangerously,generic|vuln,dangerously,True,False
+56672, ensured,generic,ensured,True,False
+56728, Compared,generic|safety,compared,True,False
+56793,Fault,generic|vuln,fault,True,False
+56866,PASSWORD,CWE-798|generic,password,False,False
+57149, Fault,generic|vuln,fault,True,False
+57172, overwritten,generic|vuln,overwritten,False,False
+57224, malign,generic|vuln,malign,True,False
+57341, PATCH,generic|safety,patch,True,False
+57409, rejects,generic|safety,rejects,True,False
+57418,validators,generic|safety,validators,True,False
+57559,fault,generic|vuln,fault,True,False
+57576,validated,generic|safety,validated,True,False
+57615,fails,generic|vuln,fails,True,False
+57766, hacks,generic|vuln,hacks,True,False
+57844, modulo,CWE-369|generic,modulo,True,False
+57881, precautions,generic|safety,precautions,True,False
+57911,Defense,generic|safety,defense,True,False
+58150,Breaking,generic|vuln,breaking,True,False
+58396,buffers,CWE-120|CWE-125|CWE-787|generic,buffers,False,False
+58410,warnings,generic|vuln,warnings,True,False
+58417,Authorized,generic|safety,authorized,True,False
+58446, disabling,generic,disabling,True,False
+58502,COMMAND,CWE-78|generic,command,True,False
+58797, plaintext,generic,plaintext,True,False
+58818,rsa,CWE-327|generic,RSA,False,False
+58987, HTTPS,generic,HTTPS,False,False
+58995,Ast,generic,AST,False,False
+59030,DNS,generic,DNS,False,False
+59056, bounded,generic|safety,bounded,True,False
+59177,detect,generic,detect,True,False
+59193, Credentials,CWE-798|generic,credentials,False,False
+59276,blocked,generic|safety,blocked,True,False
+59363,nonnull,CWE-476|generic|safety,nonnull,False,False
+59369, cybersecurity,generic,cybersecurity,False,False
+59445,Encrypt,generic,encrypt,True,False
+59470,Protect,generic|safety,protect,True,False
+59661, safest,generic|safety,safest,True,False
+59668, misuse,generic|vuln,misuse,True,False
+59724, enforcing,generic|safety,enforcing,True,False
+59760, insecure,generic|vuln,insecure,True,False
+59843,Initialization,CWE-457|generic,initialization,False,False
+59869,incorrect,generic|vuln,incorrect,True,False
+59963, Encryption,CWE-327|generic,encryption,False,False
+60106,-security,generic|safety,-security,True,False
+60239,Verification,generic|safety,verification,True,False
+60268, Undefined,generic|vuln,undefined,True,False
+60286, exploits,generic|vuln,exploits,True,False
+60294,Fatal,generic|vuln,fatal,True,False
+60476, rejecting,generic|safety,rejecting,True,False
+60522,Comparable,generic,comparable,False,False
+60839, decrypted,generic,decrypted,True,False
+60943, Correction,generic|safety,correction,True,False
+60944,Normalization,generic,normalization,False,False
+60972, Unauthorized,generic|vuln,unauthorized,True,False
+61030, guarded,generic|safety,guarded,True,False
+61036, Verified,generic|safety,verified,True,False
+61152, Cipher,CWE-327|generic,cipher,False,False
+61153, Accepted,generic,accepted,True,False
+61179,Sensitive,generic,sensitive,False,False
+61240, inefficient,generic|vuln,inefficient,True,False
+61438,certificate,CWE-295|generic,certificate,False,False
+61594,Capability,generic,capability,False,False
+61649, defective,generic|vuln,defective,True,False
+61837, Blocked,generic|safety,blocked,True,False
+61865, FAILURE,generic|vuln,failure,True,False
+61979, injections,generic|vuln,injections,True,False
+62028, confidentiality,generic,confidentiality,False,False
+62041, benign,generic|safety,benign,True,False
+62060, wrongdoing,generic|vuln,wrongdoing,True,False
+62125, catastrophe,generic|vuln,catastrophe,True,False
+62140, avoidance,generic|safety,avoidance,True,False
+62180, Lifetime,CWE-401|CWE-416|generic,lifetime,True,False
+62262,Ensure,generic,ensure,True,False
+62288,Deserialize,CWE-502|generic,deserialize,False,False
+62344, xpath,generic,XPath,False,False
+62385,Javascript,CWE-79|generic,JavaScript,False,False
+62490, Guarantee,generic,guarantee,True,False
+62614, Integrity,generic,integrity,False,False
+62657, restricting,generic|safety,restricting,True,False
+62719,overwrite,generic|vuln,overwrite,False,False
+62780,TEMPLATE,CWE-94|generic,template,True,False
+62910, escapes,generic|safety,escapes,True,False
+62942, XPath,generic,XPath,False,False
+63104,SECRET,CWE-798|generic,secret,False,False
+63289,bcrypt,CWE-327|generic,bcrypt,False,False
+63366, confinement,generic|safety,confinement,False,False
+63380,Severity,generic,severity,False,False
+63415, Fatal,generic|vuln,fatal,True,False
+63471,bounded,generic|safety,bounded,True,False
+63489,sanitize,generic|safety,sanitize,True,False
+63544, mitigation,generic|safety,mitigation,True,False
+63605,escaped,generic|safety,escaped,True,False
+63647, SAFE,generic|safety,safe,True,False
+63681,Accepted,generic,accepted,True,False
+63721, Fraud,generic|vuln,fraud,True,False
+63746,hack,generic|vuln,hack,True,False
+63819, blacklist,generic|safety,blacklist,True,False
+63910, Attacks,generic|vuln,attacks,True,False
+63932, initialise,CWE-457|generic,initialise,False,False
+64234, detects,generic,detects,True,False
+64522,deserialize,CWE-502|generic,deserialize,False,False
+64543,credential,CWE-798|generic,credential,False,False
+64654,Protected,generic|safety,protected,True,False
+64867, QUERY,CWE-89|generic,query,True,False
+64969, repairing,generic|safety,repairing,True,False
+64983,specifier,CWE-134|generic,specifier,True,False
+65063,Cleanup,CWE-401|generic,cleanup,False,False
+65112, TEMPLATE,CWE-94|generic,template,True,False
+65307,cipher,CWE-327|generic,cipher,False,False
+65444, whitelist,generic|safety,whitelist,True,False
+65463, Warn,generic|vuln,warn,True,False
+65476, ldap,generic,LDAP,False,False
+65516,CVE,generic,cve,True,False
+65692, detectors,generic,detectors,False,False
+65743, breaches,generic|vuln,breaches,True,False
+66110, harmed,generic|vuln,harmed,True,False
+66161, abusing,generic|vuln,abusing,True,False
+66191, WARN,generic|vuln,warn,True,False
+66198, flawless,generic|safety,flawless,True,False
+66216, BUG,generic|vuln,bug,True,False
+66250, rsa,CWE-327|generic,RSA,False,False
+66341, paranoid,generic,paranoid,True,False
+66350, validating,generic|safety,validating,True,False
+66367,INTEGER,CWE-190|CWE-191|generic,integer,True,False
+66448, Hazard,generic|vuln,hazard,True,False
+66532, verifying,generic|safety,verifying,True,False
+66789, Bounds,CWE-120|CWE-125|CWE-787|generic,bounds,False,False
+66826,AES,CWE-327|generic,AES,False,False
+66939, Guards,generic|safety,guards,True,False
+67034, authorised,generic|safety,authorised,True,False
+67079, exposures,generic|vuln,exposures,True,False
+67174, LOOP,CWE-400|generic,loop,True,False
+67182,Validity,generic|safety,validity,True,False
+67205, exhaustion,CWE-400|generic|vuln,exhaustion,False,False
+67287, BREAK,generic|vuln,break,True,False
+67371,GOOD,generic|safety,good,True,False
+67585, SECRET,CWE-798|generic,secret,False,False
+67601,CBC,CWE-327|generic,CBC,False,False
+67652, preventive,generic|safety,preventive,True,False
+67773, Defensive,generic|safety,defensive,True,False
+67976,blocking,generic|safety,blocking,True,False
+68019, Unexpected,generic|vuln,unexpected,True,False
+68066, Overflow,CWE-190|generic|vuln,overflow,True,False
+68117, poisoned,generic|vuln,poisoned,True,False
+68213, exploiting,generic|vuln,exploiting,True,False
+68222, SECURITY,generic|safety,security,True,False
+68342, hardened,generic|safety,hardened,True,False
+68346,checksum,generic,checksum,True,False
+68372, Exposure,generic|vuln,exposure,True,False
+68635, precaution,generic|safety,precaution,True,False
+68726, Protective,generic|safety,protective,True,False
+68754, redirects,CWE-601|generic,redirects,True,False
+68770, malfunction,generic|vuln,malfunction,True,False
+68792, wrongly,generic|vuln,wrongly,True,False
+68806,plaintext,generic,plaintext,True,False
+68910,restriction,generic|safety,restriction,True,False
+68919, Initialise,CWE-457|generic,initialise,False,False
+68939, fatally,generic|vuln,fatally,True,False
+68998,/security,generic|safety,/security,True,False
+69045,(Sql,CWE-89|generic,(SQL,False,False
+69072, infinitely,generic|vuln,infinitely,True,False
+69295, patched,generic|safety,patched,True,False
+69405, deficiencies,generic|vuln,deficiencies,True,False
+69443,CommandLine,CWE-78|generic,CommandLine,True,False
+69587, Serialization,CWE-502|generic,serialization,True,False
+69805, ALLOW,generic,allow,True,False
+69886, unintended,generic|vuln,unintended,True,False
+70197, Allocation,CWE-401|CWE-415|CWE-416|generic,allocation,True,False
+70284,Jwt,generic,JWT,False,False
+70514, disables,generic,disables,True,False
+70549, Dangerous,generic|vuln,dangerous,True,False
+70554,Safety,generic|safety,safety,True,False
+70583, Unsafe,generic|vuln,unsafe,True,False
+70679,limitations,generic|safety,limitations,True,False
+70701,Checksum,generic,checksum,True,False
+70804,decrypt,generic,decrypt,True,False
+70868, Confidential,generic,confidential,True,False
+71063,RSA,CWE-327|generic,RSA,False,False
+71326, insecurity,generic|vuln,insecurity,True,False
+71360, ENTITY,CWE-611|generic,entity,True,False
+71440,ZERO,CWE-369|generic,zero,True,False
+71497,evaluation,CWE-94|generic,evaluation,True,False
+71513, pii,generic,PII,False,False
+71674, improperly,generic|vuln,improperly,True,False
+71862,fatal,generic|vuln,fatal,True,False
+71943,Limited,generic|safety,limited,True,False
+72040,Lifetime,CWE-401|CWE-416|generic,lifetime,True,False
+72288,serialization,CWE-502|generic,serialization,True,False
+72310,WARN,generic|vuln,warn,True,False
+72341, disclosures,generic|vuln,disclosures,True,False
+72419,Violation,generic|vuln,violation,True,False
+72447, compromising,generic|vuln,compromising,True,False
+72917, passphrase,generic,passphrase,False,False
+73195,Hack,generic|vuln,hack,True,False
+73397,illegal,generic|vuln,illegal,True,False
+73463, RESOURCE,CWE-400|generic,resource,True,False
+73635, undesirable,generic|vuln,undesirable,True,False
+73667,Traversal,CWE-22|generic,traversal,False,False
+73705, Enables,generic,enables,True,False
+73825,repair,generic|safety,repair,True,False
+73913,XPath,generic,XPath,False,False
+73965,aes,CWE-327|generic,AES,False,False
+74001,Invariant,generic,invariant,False,False
+74031, evade,generic|vuln,evade,True,False
+74050, erroneous,generic|vuln,erroneous,True,False
+74109, evasion,generic|vuln,evasion,True,False
+74131,sandbox,generic,sandbox,False,False
+74150,Initializing,CWE-457|generic,initializing,False,False
+74291, safeguards,generic|safety,safeguards,True,False
+74385,severity,generic,severity,False,False
+74506, starvation,generic|vuln,starvation,False,False
+74526,Ownership,CWE-401|CWE-415|CWE-416|generic,ownership,True,False
+74585,Ctr,CWE-327|generic,CTR,False,False
+74612, Disclosure,generic|vuln,disclosure,True,False
+75035,Rejected,generic|safety,rejected,True,False
+75177, unrestricted,generic|vuln,unrestricted,False,False
+75357, POINTER,CWE-416|CWE-476|generic,pointer,True,False
+75388,Cors,generic,CORS,False,False
+75469,ownership,CWE-401|CWE-415|CWE-416|generic,ownership,True,False
+75524, VERIFY,generic|safety,verify,True,False
+75538, CommandLine,CWE-78|generic,CommandLine,True,False
+75629,Allocation,CWE-401|CWE-415|CWE-416|generic,allocation,True,False
+75725,Reject,generic|safety,reject,True,False
+75818, suspicions,generic|vuln,suspicions,True,False
+75905, CSRF,generic,CSRF,False,False
+76046,guards,generic|safety,guards,True,False
+76077,Unsafe,generic|vuln,unsafe,True,False
+76292,Protection,generic|safety,protection,True,False
+76312, Detector,generic,detector,False,False
+76365,_overflow,CWE-190|generic|vuln,_overflow,True,False
+76520,Encryption,CWE-327|generic,encryption,False,False
+76531, malformed,generic|vuln,malformed,True,False
+76588, buggy,generic|vuln,buggy,True,False
+76726,Cipher,CWE-327|generic,cipher,False,False
+76762, guarding,generic|safety,guarding,True,False
+76809, antivirus,generic|safety,antivirus,False,False
+76852,Allows,generic,allows,True,False
+76908, sabotage,generic|vuln,sabotage,True,False
+77183,encryption,CWE-327|generic,encryption,False,False
+77192, ECB,CWE-327|generic,ECB,False,False
+77336,Deserializer,CWE-502|generic,deserializer,False,False
+77347,attacks,generic|vuln,attacks,True,False
+77348, Vulner,generic|vuln,Vulner,True,False
+77506, leakage,generic|vuln,leakage,True,False
+77663, Guaranteed,generic,guaranteed,True,False
+77979,cbc,CWE-327|generic,CBC,False,False
+78067, indefinite,CWE-400|generic|vuln,indefinite,True,False
+78108,AUTHORIZED,generic|safety,authorized,True,False
+78151,risk,generic|vuln,risk,True,False
+78168, defends,generic|safety,defends,True,False
+78272, breached,generic|vuln,breached,True,False
+78290,memcpy,CWE-120|CWE-400|CWE-787|generic|vuln,memcpy,False,False
+78352,DISABLE,generic,disable,True,False
+78450,capability,generic,capability,False,False
+78487, IGNORE,generic|vuln,ignore,True,False
+78594, adversary,generic|vuln,adversary,True,False
+78952,SQLite,CWE-89|generic,SQLite,True,False
+79034, Incorrect,generic|vuln,incorrect,True,False
+79118, Blocking,generic|safety,blocking,True,False
+79150, defensively,generic|safety,defensively,True,False
+79301,Formatting,CWE-134|generic,formatting,True,False
+79512,HTTPS,generic,HTTPS,False,False
+79520,Evaluation,CWE-94|generic,evaluation,True,False
+79551,Verifier,generic|safety,verifier,True,False
+79583, weakening,generic|vuln,weakening,True,False
+79601, paranoia,generic,paranoia,True,False
+79649, Interpreter,CWE-94|generic,interpreter,True,False
+79785, counterfeit,generic|vuln,counterfeit,True,False
+80078,Exposed,generic|vuln,exposed,True,False
+80248, omission,generic|vuln,omission,True,False
+80481, hmac,CWE-327|generic,HMAC,False,False
+80511, validations,generic|safety,validations,True,False
+80519, harms,generic|vuln,harms,True,False
+80832, stricter,generic|safety,stricter,True,False
+80898,SAFE,generic|safety,safe,True,False
+81021, Deprecated,generic|vuln,deprecated,True,False
+81161, redirection,CWE-601|generic,redirection,True,False
+81233,Ascii,generic,ASCII,False,False
+81368, overrun,generic|vuln,overrun,False,False
+81397,secured,generic|safety,secured,True,False
+81432,Dos,CWE-400|generic,DoS,False,False
+81630,Passwords,CWE-798|generic,passwords,False,False
+81639,Correction,generic|safety,correction,True,False
+81994, risking,generic|vuln,risking,True,False
+82007, Ownership,CWE-401|CWE-415|CWE-416|generic,ownership,True,False
+82364,Risk,generic|vuln,risk,True,False
+82908, Queries,CWE-89|generic,queries,True,False
+82939,pickle,CWE-502|generic,pickle,True,False
+82996, Fixes,generic|safety,fixes,True,False
+83418,Restricted,generic|safety,restricted,True,False
+83456, deficient,generic|vuln,deficient,True,False
+83512, Bugs,generic|vuln,bugs,True,False
+83698, randomness,CWE-327|generic,randomness,False,False
+83839, cryptography,CWE-327|generic,cryptography,False,False
+83885,NETWORK,CWE-918|generic,network,True,False
+84108, Denied,generic,denied,False,False
+84159, Dysfunction,generic|vuln,dysfunction,True,False
+84243, legitimately,generic|safety,legitimately,True,False
+84274, injecting,generic|vuln,injecting,True,False
+84282, Reject,generic|safety,reject,True,False
+84286,Specifier,CWE-134|generic,specifier,True,False
+84376, adversaries,generic|vuln,adversaries,True,False
+84519, susceptibility,generic,susceptibility,True,False
+84644, initialised,CWE-457|generic,initialised,False,False
+84679, dysfunctional,generic|vuln,dysfunctional,True,False
+84717,Ignoring,generic|vuln,ignoring,True,False
+84828, verifies,generic|safety,verifies,True,False
+84862, spoof,generic|vuln,spoof,True,False
+84919, Detected,generic,detected,True,False
+84934,modulo,CWE-369|generic,modulo,True,False
+85031, Hacker,generic|vuln,hacker,True,False
+85455, XSS,CWE-79|generic,XSS,False,False
+85576, detections,generic,detections,False,False
+85584, unethical,generic,unethical,False,False
+85586,GraphQL,generic,GraphQL,False,False
+85683, verifier,generic|safety,verifier,True,False
+85762,Injected,generic|vuln,injected,True,False
+85783,Hostname,CWE-918|generic,hostname,True,False
+86001, egregious,generic|vuln,egregious,True,False
+86062, cryptographic,CWE-327|generic,cryptographic,False,False
+86078, Decrypt,generic,decrypt,True,False
+86087, harming,generic|vuln,harming,True,False
+86298, decryption,CWE-327|generic,decryption,False,False
+86348,BREAK,generic|vuln,break,True,False
+86491,LOOP,CWE-400|generic,loop,True,False
+86508, Formatting,CWE-134|generic,formatting,True,False
+86577,Decrypt,generic,decrypt,True,False
+86642,strcpy,CWE-120|CWE-400|CWE-787|generic|vuln,strcpy,False,False
+86702, Harden,generic|safety,harden,True,False
+86703, Corruption,generic|vuln,corruption,True,False
+86869,deny,generic,deny,False,False
+87147,FAILURE,generic|vuln,failure,True,False
+87359, Corrections,generic|safety,corrections,True,False
+87396, CSP,CWE-79|generic,CSP,False,False
+87410,Broken,generic|vuln,broken,True,False
+87412,Nonce,CWE-327|generic,nonce,False,False
+87438,interpreter,CWE-94|generic,interpreter,True,False
+87452, Authorized,generic|safety,authorized,True,False
+87547, CORS,generic,CORS,False,False
+87628, corrective,generic|safety,corrective,True,False
+87710,invalidate,generic,invalidate,False,False
+87838, Harm,generic|vuln,harm,True,False
+87928,Disclosure,generic|vuln,disclosure,True,False
+88239, cautiously,generic|safety,cautiously,True,False
+88297, compromises,generic|vuln,compromises,True,False
+88391,detector,generic,detector,False,False
+88395, FIXED,generic|safety,fixed,True,False
+88409, Reliable,generic|safety,reliable,True,False
+88463, dangling,CWE-416|generic,dangling,False,False
+88656, inconsistencies,generic|vuln,inconsistencies,True,False
+88805, Restrictions,generic|safety,restrictions,True,False
+88918,CTR,CWE-327|generic,CTR,False,False
+89271,DIRECTORY,CWE-22|generic,directory,True,False
+89438, wrongful,generic|vuln,wrongful,True,False
+89461,prevent,generic|safety,prevent,True,False
+89671,Https,generic,HTTPS,False,False
+89759, hardcoded,CWE-798|generic|vuln,hardcoded,False,False
+89784, Arithmetic,CWE-190|CWE-191|CWE-369|generic,arithmetic,True,False
+89794, loophole,generic|vuln,loophole,True,False
+90004, overflowing,CWE-190|generic|vuln,overflowing,True,False
+90027,allocation,CWE-401|CWE-415|CWE-416|generic,allocation,True,False
+90130, deadlock,generic|vuln,deadlock,False,False
+90136, unprotected,generic|vuln,unprotected,True,False
+90146, Checked,generic|safety,checked,True,False
+90164, Credential,CWE-798|generic,credential,False,False
+90268, Authenticate,generic,authenticate,False,False
+90276,LDAP,generic,LDAP,False,False
+90625, Restricted,generic|safety,restricted,True,False
+90677,pii,generic,PII,False,False
+91057, Initializing,CWE-457|generic,initializing,False,False
+91133,_OVERFLOW,CWE-190|generic|vuln,_overflow,True,False
+91555, forging,generic|vuln,forging,True,False
+91559, disclosing,generic|vuln,disclosing,True,False
+91840, HACK,generic|vuln,hack,True,False
+91960, Invalidate,generic,invalidate,False,False
+92048,problems,generic|vuln,problems,True,False
+92060,rejected,generic|safety,rejected,True,False
+92214, Trojan,generic,trojan,False,False
+92533,Blocked,generic|safety,blocked,True,False
+92610, HMAC,CWE-327|generic,HMAC,False,False
+92804,threat,generic|vuln,threat,True,False
+92824, inconsistency,generic|vuln,inconsistency,True,False
+92904, Firewall,generic|safety,firewall,False,False
+92975,guarded,generic|safety,guarded,True,False
+92992, preventative,generic|safety,preventative,True,False
+93061, EVAL,CWE-94|generic,eval,True,False
+93164,Unchecked,generic|vuln,unchecked,True,False
+93204, PERMISSION,generic,permission,False,False
+93359,Incomplete,generic|vuln,incomplete,True,False
+93516, Sandbox,generic,sandbox,False,False
+93534,patches,generic|safety,patches,True,False
+93648,defense,generic|safety,defense,True,False
+93712,lifetime,CWE-401|CWE-416|generic,lifetime,True,False
+93791,Certificates,CWE-295|generic,certificates,False,False
+93836, bola,generic,BOLA,False,False
+93864,Danger,generic|vuln,danger,True,False
+93933, uninitialized,CWE-457|generic,uninitialized,False,False
+93997,ACCEPT,generic,accept,True,False
+94214,Entropy,CWE-327|generic,entropy,False,False
+94246, specifier,CWE-134|generic,specifier,True,False
+94362, infiltration,generic|vuln,infiltration,True,False
+94466, Validates,generic|safety,validates,True,False
+94713, sanitizer,generic|safety,sanitizer,True,False
+94714, phishing,generic|vuln,phishing,True,False
+94912, invalidated,generic,invalidated,False,False
+94953,.overflow,CWE-190|generic|vuln,.overflow,True,False
+94987,Repair,generic|safety,repair,True,False
+95047, ATTACK,generic|vuln,attack,True,False
+95146, Capability,generic,capability,False,False
+95250, WRONG,generic|vuln,wrong,True,False
+95362, MISSING,generic|vuln,missing,True,False
+95657,Authenticate,generic,authenticate,False,False
+96234,防,generic|safety,防,True,False
+96520,安全,generic|safety,安全,True,False
+97043,风险,generic|vuln,风险,True,False
+97153,保护,generic|safety,保护,True,False
+98693,危险,generic|vuln,危险,True,False
+99147,错误,generic|vuln,错误,True,False
+99377,溢,generic|vuln,溢,True,False
+99627,防护,generic|safety,防护,True,False
+100158,防范,generic|safety,防范,True,False
+100615,防止,generic|safety,防止,True,False
+103838,验证,generic|safety,验证,True,False
+109302,缺陷,generic|vuln,缺陷,True,False
+109470,安全的,generic|safety,安全的,True,False
+109918,安全性,generic|safety,安全性,True,False
+109966,注入,generic|vuln,注入,True,False
+110863,漏洞,generic|vuln,漏洞,True,False
+111201,安全隐患,generic|vuln,安全隐患,True,False
+112101,恶意,generic|vuln,恶意,True,False
+113161,脆弱,generic|vuln,脆弱,True,False
+113355,泄露,generic|vuln,泄露,True,False
+120668,的安全性,generic|safety,的安全性,True,False
+124607,溢出,CWE-190|generic|vuln,溢出,True,False
+126962,不安全,generic|vuln,不安全,True,False
+186300, Bola,generic,BOLA,False,False
+193400,exploitation,generic|vuln,exploitation,True,False
+197978,bola,generic,BOLA,False,False
+206446, DEP,generic|safety,DEP,False,False
+214827, 취약,generic|vuln,취약,True,False
+246561,DOS,CWE-400|generic,DoS,False,False
