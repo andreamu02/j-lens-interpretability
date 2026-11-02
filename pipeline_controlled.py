@@ -12,11 +12,12 @@ import zlib
 from array import array
 from pathlib import Path
 
-import jlens
 import torch
 import transformers
 from anchor_codec import pack_record
 from dataset_and_scoring import load_cases, predict_label, score_terms
+
+import jlens
 
 DATASET = "~/jspace/data/secllmholmes/datasets/hand-crafted/dataset"
 LENS_REPO = "neuronpedia/jacobian-lens"
@@ -35,18 +36,6 @@ MODELS = {
         "base_model": True,
         "no_explicit_reasoning": True,
         "min_transformers": "5.17.0",
-        "stop_at_mcp_default": True,
-    },
-    "llama3.3-70b": {
-        "hf_id": "meta-llama/Llama-3.3-70B-Instruct",
-        "quantize": "4bit",
-        # No validated workspace band assigned: use --layers for a targeted smoke test.
-        "band": None,
-        "lens_file": f"llama3.3-70b-it/{L}/Llama-3.3-70B-Instruct_jacobian_lens.pt",
-        "max_reasoning": 256,
-        "max_seq_len": 4096,
-        "layer_chunk": 1,
-        "batch_size": 1,
         "stop_at_mcp_default": True,
     },
     "qwen2.5-7b": {
